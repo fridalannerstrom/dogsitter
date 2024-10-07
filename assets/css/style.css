@@ -26,7 +26,13 @@ h1, h2 {
 /* Header */
 
 header {
+    
+}
 
+#logo {
+    font-weight: 700;
+    color: #000;
+    text-decoration: none;
 }
 
 /* Content */
