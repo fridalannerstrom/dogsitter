@@ -45,6 +45,18 @@ header {
     font-size: 1.1rem;
 }
 
+/* Dropdown navigation styling */
+
+nav {
+    position: absolute;
+    background-color: white;
+    width: 90vw;
+    border-radius: 10px;
+    margin-top: 30px;
+    box-shadow: 0 0px 20px #1f1f1f;
+    display: none;
+}
+
 #menu a {
     text-decoration: none;
     font-family: 'Lora', serif;
@@ -55,6 +67,11 @@ header {
 #menu li {
     list-style-type: none;
     border-bottom: 1px solid rgb(218, 218, 218);
+    padding: 20px;
+}
+
+#menu li:last-child {
+    border-bottom: 0px;
 }
 
 #menu .active {
