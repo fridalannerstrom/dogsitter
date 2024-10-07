@@ -6,15 +6,32 @@
     box-sizing: border-box;
 }
 
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #000; 
+}
+
 /* Headings */
 
 /* Header */
+
+header {
+
+}
 
 /* Content */
 
 main {
     background-color: red;
+    /* makes main content take up space and push footer down */
+    flex: 1 0 auto;
 }
 
 
 /* Footer */
+
+footer {
+
+}
