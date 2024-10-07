@@ -1,3 +1,6 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 /* General styling */
 
 * {
@@ -11,9 +14,14 @@ body {
     display: flex;
     flex-direction: column;
     color: #000; 
+    font-family: 'Work Sans', sans-serif;
 }
 
 /* Headings */
+
+h1, h2 {
+    font-family: 'Lora', serif;
+}
 
 /* Header */
 
