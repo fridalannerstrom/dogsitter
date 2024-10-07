@@ -36,6 +36,9 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 1px 15px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 #logo {
@@ -45,16 +48,17 @@ header {
     font-size: 1.1rem;
 }
 
-/* Dropdown navigation styling */
+/* Dropdown toggle navigation styling */
 
 nav {
     position: absolute;
     background-color: white;
     width: 90vw;
     border-radius: 10px;
-    margin-top: 30px;
     box-shadow: 0 0px 20px #1f1f1f;
     display: none;
+    top: 100%;
+    margin-top: 15px;
 }
 
 #menu a {
@@ -78,14 +82,28 @@ nav {
     color: #919F93;
 }
 
+/* Nav toggle */
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 1.5rem;
+}
+
 /* Content */
 
 main {
     background-color: red;
     /* makes main content take up space and push footer down */
     flex: 1 0 auto;
+    margin-top: 60px;
 }
-
 
 /* Footer */
 
