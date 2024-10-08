@@ -35,6 +35,30 @@ button {
     border: 0px;
 }
 
+button:hover {
+    background-color: #919F93;
+    color: white;
+}
+
+.topic-tag {
+    background-color: #919F93;
+    color: white;
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 5px;
+    letter-spacing: 2px;
+}
+
+section {
+    display: grid;
+    justify-content: center;
+    padding: 70px 30px;
+    place-items: center;
+    align-items: start;
+}
+
 /* Headings */
 
 h1, h2 {
@@ -145,7 +169,6 @@ main {
 #hero-section {
     background: url('../images/dog.png') no-repeat bottom center/cover;
     height: 90vh;
-    padding: 70px 30px;
     min-height: 600px;
     max-height: 800px;
     display: flex;
@@ -179,7 +202,7 @@ footer {
     }
 
     /* Content */ 
-    
+
     #hero-section {
         background: url('../images/background-desktop.png') no-repeat bottom center/cover;
         justify-content: left;
