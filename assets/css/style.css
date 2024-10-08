@@ -21,11 +21,18 @@ a {
     color: #919F93;
 }
 
+p {
+    line-height: 1.5rem;
+}
+
 button {
     background-color: white;
     border-radius: 100px;
-    padding: 20px;
-    font-weight: 300;
+    padding: 15px 20px;
+    font-weight: 600;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 0.9rem;
+    border: 0px;
 }
 
 /* Headings */
@@ -33,10 +40,11 @@ button {
 h1, h2 {
     font-family: 'Lora', serif;
     font-weight: 300;
+    margin-bottom: 15px;
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 1.9rem;
 }
 
 /* Header */
@@ -60,7 +68,7 @@ header {
 #header-notice {
     width: 100%;
     background-color: #304B33;
-    height: 30px;
+    height: fit-content;
     padding: 5px;
 }
 
@@ -137,20 +145,22 @@ main {
 #hero-section {
     background: url('../images/dog.png') no-repeat bottom center/cover;
     height: 90vh;
-    padding: 50px 50px;
+    padding: 70px 30px;
     min-height: 600px;
+    max-height: 800px;
     display: flex;
     justify-content: center;
 }
 
 #hero-section-content {
-    border: 1px solid red;
     max-width: 320px;
     color: white;
     text-align: center;
 }
 
-
+#hero-section-content button {
+    margin-top: 30px;
+}
 
 
 /* Footer */
