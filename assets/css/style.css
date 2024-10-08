@@ -21,6 +21,13 @@ a {
     color: #919F93;
 }
 
+button {
+    background-color: white;
+    border-radius: 100px;
+    padding: 20px;
+    font-weight: 300;
+}
+
 /* Headings */
 
 h1, h2 {
@@ -38,6 +45,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
+    box-shadow: 0 0px 20px #1f1f1f;
 }
 
 #main-header {
@@ -131,18 +139,33 @@ main {
     height: 90vh;
     padding: 50px 50px;
     min-height: 600px;
+    display: flex;
+    justify-content: center;
 }
 
 #hero-section-content {
     border: 1px solid red;
+    max-width: 320px;
     color: white;
     text-align: center;
 }
 
 
 
+
 /* Footer */
 
 footer {
+
+}
+
+/* Large devices (laptops and desktops, 768px and up) */
+@media screen and (min-width: 768px) {
+    #hero-section {
+        background: url('../images/background-desktop.png') no-repeat bottom center/cover;
+    }
+}
+
+@media screen and (min-width: 1200px) {    
 
 }
