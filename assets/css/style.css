@@ -25,6 +25,11 @@ a {
 
 h1, h2 {
     font-family: 'Lora', serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 2rem;
 }
 
 /* Header */
@@ -116,11 +121,25 @@ nav {
 /* Content */
 
 main {
-    background: 
     /* makes main content take up space and push footer down */
     flex: 1 0 auto;
     margin-top: 90px;
 }
+
+#hero-section {
+    background: url('../images/dog.png') no-repeat bottom center/cover;
+    height: 90vh;
+    padding: 50px 50px;
+    min-height: 600px;
+}
+
+#hero-section-content {
+    border: 1px solid red;
+    color: white;
+    text-align: center;
+}
+
+
 
 /* Footer */
 
