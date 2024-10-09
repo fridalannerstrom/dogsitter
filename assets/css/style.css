@@ -233,10 +233,15 @@ main {
     margin-top: 20px;
 }
 
-.fa-paw {
+.fa-paw, .fa-moon, .fa-dog {
     font-size: 1.7rem;
     color: #919F93;
     margin-bottom: 10px;
+}
+
+.price {
+    font-weight: 600;
+    font-size: 1.2rem;
 }
 
 /* Footer */
