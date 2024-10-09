@@ -96,6 +96,11 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-size: 1.3rem;
+    margin: 10px 0;
+}
+
 /* Header */
 
 header {
@@ -219,6 +224,20 @@ main {
     text-align: center;
 }
 
+/* Services section */
+
+.service {
+    background-color: #F9F5F2;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.fa-paw {
+    font-size: 1.7rem;
+    color: #919F93;
+    margin-bottom: 10px;
+}
 
 /* Footer */
 
