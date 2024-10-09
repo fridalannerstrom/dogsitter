@@ -59,6 +59,7 @@ button:hover {
     padding: 5px 10px;
     border-radius: 5px;
     letter-spacing: 2px;
+    margin: auto;
     margin-bottom: 20px;
 }
 
@@ -66,8 +67,8 @@ section {
     display: grid;
     justify-content: center;
     padding: 70px 40px;
-    place-items: center;
-    align-items: start;
+    margin: auto;
+    max-width: 1200px;
 }
 
 img {
@@ -205,6 +206,7 @@ main {
 #hero-section-content {
     color: white;
     text-align: center;
+    padding-top: 70px;
 }
 
 #hero-section-content button {
@@ -215,7 +217,6 @@ main {
 
 #about-me {
     text-align: center;
-    border: 1px solid red;
 }
 
 
@@ -228,6 +229,12 @@ footer {
 /* Large devices (laptops and desktops, 768px and up) */
 @media screen and (min-width: 768px) {
 
+    /* General Styling */
+    
+    section {
+        display: flex;
+    }
+    
     /* Headings*/
 
     h1 {
@@ -273,6 +280,31 @@ footer {
         padding-left: 100px;
         max-width: 50vw;
     }
+
+    #about-me-content {
+        width: 50%;
+        padding-right: 30px;
+        text-align: left; 
+        margin: auto;
+    }
+
+    #about-me-content h2 {
+        text-align: left; 
+    }
+
+    #about-me-content .topic-tag {
+        margin: 20px 0;
+    }
+
+    #about-me-image {
+        width: 50%;
+    }
+
+    #about-me-image img {
+        width: 100%;
+        padding-left: 30px;
+    }
+
 }
 
 @media screen and (min-width: 1200px) {    
