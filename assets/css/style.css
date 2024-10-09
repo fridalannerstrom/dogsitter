@@ -97,7 +97,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     margin: 10px 0;
 }
 
@@ -253,11 +253,6 @@ footer {
 /* Large devices (laptops and desktops, 768px and up) */
 @media screen and (min-width: 768px) {
 
-    /* General Styling */
-    
-    section {
-        display: flex;
-    }
     
     /* Headings*/
 
@@ -305,6 +300,12 @@ footer {
         max-width: 50vw;
     }
 
+    /* About me section */
+
+    #about-me {
+        display: flex;
+    }
+
     #about-me-content {
         width: 50%;
         padding-right: 30px;
@@ -332,5 +333,13 @@ footer {
 }
 
 @media screen and (min-width: 1200px) {    
+
+    
+    /* Services section */
+
+    #presented-services {
+        display: flex;
+        gap: 20px;
+    }
 
 }
