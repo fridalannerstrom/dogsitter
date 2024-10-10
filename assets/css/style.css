@@ -63,13 +63,14 @@ button:hover {
     margin-bottom: 20px;
 }
 
-section {
+.basic-section {
     display: grid;
     justify-content: center;
-    padding: 70px 40px;
+    padding: 50px 40px;
     margin: auto;
     max-width: 1200px;
 }
+
 
 .basic-image {
     max-width: 80vw;
@@ -226,6 +227,7 @@ main {
 
 #about-me {
     text-align: center;
+    padding-top: 70px;
 }
 
 /* Services section */
