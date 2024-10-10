@@ -270,7 +270,17 @@ footer {
 
 }
 
+/* Media Query */
+
+@media screen and (min-width: 576px) { 
+#gallery {
+    column-count: 2;
+    column-gap: 0.7rem;
+}
+}
+
 /* Large devices (laptops and desktops, 768px and up) */
+
 @media screen and (min-width: 768px) {
 
     
@@ -349,7 +359,6 @@ footer {
         width: 100%;
         padding-left: 30px;
     }
-
 }
 
 @media screen and (min-width: 1200px) {    
@@ -362,4 +371,11 @@ footer {
         gap: 20px;
     }
 
-}
+        /* Gallery */
+
+        #gallery {
+            column-count: 3;
+            column-gap: 0.7rem;
+        }
+    }
+
