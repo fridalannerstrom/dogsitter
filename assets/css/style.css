@@ -76,7 +76,6 @@ img {
     padding: 0px 0px;
     display: flex;
     box-sizing: border-box;
-    margin-top: 30px;
 }
 
 /* Headings */
@@ -139,6 +138,10 @@ header {
     color: #000;
     text-decoration: none;
     font-size: 1.1rem;
+}
+
+#logo img {
+    width: 150px;
 }
 
 /* Dropdown toggle navigation styling */
