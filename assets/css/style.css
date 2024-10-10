@@ -71,11 +71,12 @@ section {
     max-width: 1200px;
 }
 
-img {
+.basic-image {
     max-width: 80vw;
     padding: 0px 0px;
     display: flex;
     box-sizing: border-box;
+    padding-top: 30px;
 }
 
 /* Headings */
