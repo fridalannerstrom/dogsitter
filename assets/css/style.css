@@ -252,6 +252,16 @@ main {
 
 /* Gallery section */
 
+#gallery img {
+    width: 100%;
+    border-radius: 10px;
+    /* line-height for alt text */
+    line-height: 1rem;
+}
+
+#gallery {
+    line-height: 2rem;
+}
 
 
 /* Footer */
