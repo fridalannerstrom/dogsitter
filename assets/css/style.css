@@ -331,7 +331,22 @@ main {
     color: #526154;
 }
 
+#footer-copyright {
+    background-color: #0E2310;
+    text-align: center;
+    height: 35px;
+    padding: 5px;
+    font-size: 0.6rem;
+}
 
+#footer-copyright p {
+    font-size: 0.8rem;
+    color: #80A184;
+}
+
+#footer-copyright i {
+    color: #C13131;
+}
 
 /* Media Query */
 
