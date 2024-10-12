@@ -303,7 +303,7 @@ main {
 
 #footer-navigation {
     border-top: 1px solid #526154;
-    padding-top: 20px;
+    padding: 20px;
 }
 
 #footer-navigation li {
@@ -318,6 +318,16 @@ main {
 }
 
 #footer-navigation li a:hover {
+    color: #526154;
+}
+
+.social-links a {
+    color: white;
+    font-size: 1.2rem;
+    padding: 0 5px;
+}
+
+.social-links a:hover {
     color: #526154;
 }
 
