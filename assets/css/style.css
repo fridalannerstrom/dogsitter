@@ -289,8 +289,17 @@ main {
 
 /* Footer */
 
-footer {
+#footer-container {
+    background-color: #1E3120;
+    height: 300px;
+    margin-top: 70px;
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
 
+#footer-container img {
+    width: 250px;
 }
 
 /* Media Query */
