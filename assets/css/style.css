@@ -273,17 +273,18 @@ main {
 
 #contact-box {
     margin: 0px 40px;
-    border: 1px solid rgb(255, 0, 0);
     border-radius: 10px;
     background: url('../images/contact-background.png') no-repeat center center/cover;
     color: white;
     padding: 50px;
 }
 
-#contact-form {
-    border: 1px solid rgb(70, 23, 236);
+#contact-form input, #contact-form textarea {
     width: 100%;
-    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: 'Work Sans', sans-serif;
+    margin-bottom: 20px;
 }
 
 /* Footer */
