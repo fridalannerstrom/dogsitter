@@ -159,24 +159,24 @@ header {
     right: 0.8rem;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     font-family: 'Lora', serif;
     font-size: 1.5rem;
     color: black;
 }
 
-#menu li {
+.menu li {
     list-style-type: none;
     border-bottom: 1px solid rgb(218, 218, 218);
     padding: 20px;
 }
 
-#menu li:last-child {
+.menu li:last-child {
     border-bottom: 0px;
 }
 
-#menu .active {
+.menu .active {
     color: #919F93;
 }
 
@@ -291,7 +291,6 @@ main {
 
 #footer-container {
     background-color: #1E3120;
-    height: 300px;
     margin-top: 70px;
     padding: 50px;
     text-align: center;
@@ -301,6 +300,28 @@ main {
 #footer-container img {
     width: 250px;
 }
+
+#footer-navigation {
+    border-top: 1px solid #526154;
+    padding-top: 20px;
+}
+
+#footer-navigation li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+#footer-navigation li a {
+    color: white;
+    text-decoration: none;
+}
+
+#footer-navigation li a:hover {
+    color: #526154;
+}
+
+
 
 /* Media Query */
 
@@ -334,18 +355,18 @@ main {
         display: none;
     }
     
-    #menu a {
+    .menu a {
         font-size: 1rem;
         color: black;
     }
     
-    #menu li {
+    .menu li {
         border-bottom: 0px;
         display: inline-block;
         padding: 15px;
     }
     
-    #menu .active {
+    .menu .active {
         color: #919F93;
     }
 
@@ -405,14 +426,8 @@ main {
     }
     
     .footer-contact {
-        border: 1px solid blue;
         width: 40%;
-    }
-
-    #footer-navigation-section nav {
-
-    }
-    
+    }  
 }
 
 @media screen and (min-width: 1200px) {
