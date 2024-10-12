@@ -148,7 +148,7 @@ header {
 
 /* Dropdown toggle navigation styling */
 
-nav {
+#header-navigation {
     position: absolute;
     background-color: white;
     border-radius: 10px;
@@ -324,7 +324,7 @@ main {
 
     /* Header */
 
-    nav {
+    #header-navigation {
         position: relative;
         box-shadow: 0 0px 0px;
         display: flex;
@@ -407,6 +407,10 @@ main {
     .footer-contact {
         border: 1px solid blue;
         width: 40%;
+    }
+
+    #footer-navigation-section nav {
+
     }
     
 }
