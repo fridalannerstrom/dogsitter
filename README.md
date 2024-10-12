@@ -30,7 +30,7 @@ The website is designed with a modern, clean aesthetic to present Sunne Dogcare 
    
 5. [Deployment](#deployment)
    - [Local Deployment](#local-deployment)
-   - [GitHub Deployment](#github-deployment)
+   - [GitHub Deployment](#github-deployment) - started using conventional commits
    
 6. [Credits and Contact](#credits-and-acknowledgments)
    - [Content Sources](#content-sources)
