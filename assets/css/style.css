@@ -333,6 +333,7 @@ footer {
     #menu li {
         border-bottom: 0px;
         display: inline-block;
+        padding: 15px;
     }
     
     #menu .active {
