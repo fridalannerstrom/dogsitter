@@ -281,6 +281,10 @@ main {
     font-size: 1.2rem;
 }
 
+.our-services {
+    margin-top: 30px;
+}
+
 .service-description {
     padding: 30px 0px 10px 0px;
 }
@@ -483,10 +487,8 @@ main {
 
     .our-services {
         display: flex;
-        border: 1px solid #d1d1d1;
-        border-radius: 10px;
-        padding: 50px;
         margin-top: 50px;
+        padding: 40px;
     }
     
     .service-list {
