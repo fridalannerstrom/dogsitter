@@ -234,7 +234,7 @@ main {
     color: white;
     text-align: center;
     padding-top: 70px;
-    max-width: 300px;
+    max-width: 250px;
 }
 
 /* About me seciton */
@@ -415,6 +415,8 @@ main {
    
     /* Content */ 
 
+    /* Hero section */
+
     #hero-section {
         background: url('../images/background-desktop.png') no-repeat bottom center/cover;
         justify-content: left;
@@ -426,6 +428,15 @@ main {
         padding-left: 100px;
         max-width: 50vw;
     }
+
+    .hero-section-subpage {
+    height: 400px;
+}
+
+    .hero-section-subpage-content {
+    padding-top: 100px;
+    max-width: 400px;
+}
 
     /* About me section */
 
