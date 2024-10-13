@@ -80,6 +80,18 @@ button:hover {
     padding-top: 30px;
 }
 
+.intro-text {
+    background-color: #F9F5F2;
+    padding: 40px 40px;
+}
+
+.intro-text h3 {
+    font-weight: 400;
+    font-size: 1.1rem;
+    text-align: center;
+    line-height: 1.4rem;
+}
+
 /* Headings */
 
 h1, h2 {
