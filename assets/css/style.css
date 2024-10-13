@@ -291,6 +291,7 @@ main {
     padding: 15px;
     margin-bottom: 10px;
     font-size: 0.9rem;
+    line-height: 1.5rem;
 }
 
 .service-list-item i {
@@ -473,7 +474,41 @@ main {
     max-width: 400px;
 }
 
-    /* About me section */
+    /* Services */
+
+    .service-description {
+        width: 50%;
+        padding-right: 30px;
+    }
+
+    .our-services {
+        display: flex;
+        border: 1px solid #d1d1d1;
+        border-radius: 10px;
+        padding: 50px;
+        margin-top: 50px;
+    }
+    
+    .service-list {
+        width: 50%;
+        padding-left: 30px;
+    }
+    
+    .service-list-item {
+        background-color: #F9F5F2;
+        border-radius: 10px;
+        padding: 15px;
+        margin-bottom: 10px;
+        font-size: 0.9rem;
+    }
+    
+    .service-list-item i {
+        font-size: 1rem;
+        margin-right: 10px;
+        padding-bottom: 0px;
+    }
+
+    /* About me */
 
     #about-me {
         display: flex;
