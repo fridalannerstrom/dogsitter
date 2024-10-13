@@ -304,6 +304,17 @@ main {
     padding-bottom: 0px;
 }
 
+/* FAQ */
+
+#FAQ-item {
+    text-align: left;
+}
+
+#FAQ-item i {
+    font-size: 1rem;
+    margin-right: 10px;
+}
+
 /* Gallery section */
 
 #gallery img {
