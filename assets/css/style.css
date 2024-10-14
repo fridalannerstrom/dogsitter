@@ -281,6 +281,15 @@ main {
     padding-top: 70px;
 }
 
+ .about-image-container img {
+    width: 100%;
+    border-radius: 15px;
+ }
+
+ .about-container {
+    margin-top: 30px;
+ }
+
 /* Services section */
 
 #hero-section-services {
@@ -581,6 +590,27 @@ main {
         padding-left: 30px;
     }
 
+
+    .about-container {
+        display: flex;
+    }
+
+    .about-image-container {
+        width: 50%;
+        margin: auto;
+    }
+
+    .about-image-container img {
+       width: 90%;
+        margin-right: 30px;
+    }
+
+    .about-information-container {
+        width: 50%;
+        margin: auto;
+        padding-top: 20px;
+    }
+
     /* Footer */
 
     #footer-contact-section {
@@ -591,6 +621,7 @@ main {
     .footer-contact {
         width: 40%;
     }  
+
 }
 
 @media screen and (min-width: 1200px) {
