@@ -220,6 +220,7 @@ header {
     top: 110%;
     left: 0.8rem;
     right: 0.8rem;
+    text-align: right;
 }
 
 .menu a {
