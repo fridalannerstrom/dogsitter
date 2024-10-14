@@ -131,9 +131,7 @@ button {
     text-align: left;
 }
 
-
 form input, form textarea {
-    width: 100%;
     padding: 15px;
     border-radius: 10px;
     font-family: 'Work Sans', sans-serif;
@@ -395,24 +393,11 @@ main {
 
 #booking-form-container {
     border: 1px solid blue;
-    width: 100vw;
-    max-width: 1200px;
-    padding: 40px;
+    padding: 30px;
 }
 
 #booking-form {
     border: 1px solid red;
-}
-
-#booking-form #daycare {
-    display: flex;
-    padding: 0px;
-    margin: 0px;
-    width: 30vw;
-}
-
-#radio #daycare {
-    border: 1px solid green;
 }
 
 
