@@ -132,6 +132,13 @@ button {
 }
 
 
+form input, form textarea {
+    width: 100%;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: 'Work Sans', sans-serif;
+    margin-bottom: 20px;
+}
 
 /* Headings */
 
@@ -386,14 +393,28 @@ main {
 
 /* Contact section */
 
-
-#contact-form input, #contact-form textarea {
-    width: 100%;
-    padding: 15px;
-    border-radius: 10px;
-    font-family: 'Work Sans', sans-serif;
-    margin-bottom: 20px;
+#booking-form-container {
+    border: 1px solid blue;
+    width: 100vw;
+    max-width: 1200px;
+    padding: 40px;
 }
+
+#booking-form {
+    border: 1px solid red;
+}
+
+#booking-form #daycare {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    width: 30vw;
+}
+
+#radio #daycare {
+    border: 1px solid green;
+}
+
 
 /* Footer */
 
