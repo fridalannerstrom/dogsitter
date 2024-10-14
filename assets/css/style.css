@@ -134,14 +134,18 @@ form {
     align-items: center;
 }
 
-form input, form textarea {
+form input, form textarea, form select, form date {
     width: 100%;
-    max-width: 600px; /* Optional: set a max width to avoid it becoming too wide on large screens */
+    max-width: 500px; /* set a max width to avoid it becoming too wide on large screens */
     padding: 15px;
     border-radius: 10px;
     font-family: 'Work Sans', sans-serif;
-    margin-bottom: 20px;
-    border: none; /* Ensure no extra border is added */
+    margin-bottom: 30px;
+    border: none; 
+}
+
+form label {
+    margin-bottom: 10px;
 }
 
 /* Headings */
@@ -397,15 +401,15 @@ main {
 
 /* Contact section */
 
-#booking-form-container {
-    border: 1px solid blue;
-    padding: 30px;
-}
-
 #booking-form {
-    border: 1px solid red;
+    margin-top: 50px;
 }
 
+#form-date {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Två kolumner av lika storlek */
+    gap: 20px;
+}
 
 /* Footer */
 

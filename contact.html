@@ -60,37 +60,54 @@
 
       <!-- Contact form -->
 
-    <section>
-        <div id="booking-form-container">
-            <form id="booking-form" method="POST" action="https://formdump.codeinstitute.net">
+       <section> 
+         <div class="cta-container" id="booking-form">
+            <div class="cta-content">
+                  <form id="contact-form" method="POST" action="https://formdump.codeinstitute.net">
 
-            <label for="name">Your Name</label><br>
-            <input type="text" name="first_name" id="first-name" placeholder="John Doe" class="text-input" required><br>
+                     <!-- Name -->
+                      <label for="name">Your Name</label>
+                      <input type="text" name="first_name" id="first-name" placeholder="John Doe" class="text-input" required>
 
-            <label for="email-address">Email Address</label><br>
-            <input type="email" name="email_address" id="email-address" class="text-input" placeholder="john.doe@email.com" required><br>
+                     <!-- E-mail -->
+                      <label for="email-address">Email Address</label>
+                       <input type="email" name="email_address" id="email-address" class="text-input" placeholder="john.doe@email.com" required>
 
-            <label for="care-type">What type of care do you need?</label><br>
-                <input type="radio" id="daycare" name="care-type" value="Daycare">
-                <label for="daycare">Daycare</label>
-                <input type="radio" id="css" name="care-type" value="Overnight Stay">
-                <label for="css">Overnight Stay</label>
-                <input type="radio" id="javascript" name="care-type" value="Walking Drop-In">
-                <label for="javascript">Walking Drop-In</label>
+                     <!-- Type of care -->
+                       <label for="care-type">Choose a service:</label>
+                        <select id="care-type" name="care-type">
+                        <option value="daycare">Daycare</option>
+                        <option value="overnight">Overnight Stay</option>
+                        <option value="drop-in">Drop-in Walks</option>
+                        <option value="other">Other</option>
+                        </select>
 
-            <label for="message">Message</label><br>
-            <textarea id="message" rows="10" name="message" placeholder="Let me know why you are contacting me"></textarea><br>
+                        <div id="form-date">
 
-            <button type="submit" class="send-button button-light">Send</button>
-    </div>
-    </form>
+                        <div class="date">
+                        <label for="start">Start date:</label>
+                        <input type="date" id="start" name="trip-start" value="2018-07-22" min="2018-01-01" max="2018-12-31" />
+                        </div>
+                        <div class="date"><label for="start">Start date:</label>
+                        <input type="date" id="start" name="trip-start" value="2018-07-22" min="2018-01-01" max="2018-12-31" />
+                        </div>
+                     </div>
 
-</section>
+
+                      <label for="message">Message</label>
+                      <textarea id="message" rows="10" name="message" placeholder="Let me know why you are contacting me"></textarea>
+                      <button type="submit" class="send-button button-light">Send</button>
+                  </form>
+            </div>
+         </div>
+      </section>
+
 
 
    </main>
 
     <!-- Footer -->
+
      <footer>
         <div id="footer-container">
          <a href="index.html"><img src="assets/images/paw_play_logo_white.png"></a>
