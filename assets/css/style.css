@@ -428,6 +428,10 @@ background: url('../images/background-mobile-gallery.png') no-repeat center cent
     max-width: 500px;
 }
 
+#form-date input {
+    margin-top: 10px;
+}
+
 /* Footer */
 
 #footer-container {
