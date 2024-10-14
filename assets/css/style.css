@@ -409,6 +409,16 @@ main {
     display: grid;
     grid-template-columns: 1fr 1fr; /* Två kolumner av lika storlek */
     gap: 20px;
+    border: 1px solid red;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px;
+}
+
+
+input[type="date"] {
+    border: 1px solid blue;
 }
 
 /* Footer */
