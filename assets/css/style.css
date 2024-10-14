@@ -406,19 +406,13 @@ main {
 }
 
 #form-date {
-    display: grid;
+    display: block;
     grid-template-columns: 1fr 1fr; /* Två kolumner av lika storlek */
     gap: 20px;
-    border: 1px solid red;
     width: 100%;
     flex-direction: column;
     align-items: center;
     max-width: 500px;
-}
-
-
-input[type="date"] {
-    border: 1px solid blue;
 }
 
 /* Footer */
@@ -489,6 +483,7 @@ input[type="date"] {
     column-count: 2;
     column-gap: 0.7rem;
 }
+
 }
 
 /* Large devices (laptops and desktops, 768px and up) */
@@ -651,6 +646,12 @@ input[type="date"] {
         margin: auto;
         padding-top: 20px;
     }
+
+    /* contact */
+
+    #form-date {
+        display: grid;
+    }    
 
     /* Footer */
 
