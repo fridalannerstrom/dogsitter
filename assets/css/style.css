@@ -361,7 +361,7 @@ main {
 }
 
 .our-services {
-    padding-top: 40px;
+    padding-top: 60px;
 }
 
 .service-description {
@@ -592,6 +592,7 @@ background: url('../images/background-mobile-gallery.png') no-repeat center cent
 
     .our-services {
         display: flex;
+        padding-top: 50px;
         margin-top: 50px;
     }
     
