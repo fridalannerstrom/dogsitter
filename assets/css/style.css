@@ -127,6 +127,11 @@ button, .button-light {
     text-align: center;
 }
 
+.cta-content p {
+    max-width: 500px;
+    margin: 20px auto;
+}
+
 form {
     width: 100%;
     display: flex;
@@ -582,7 +587,6 @@ background: url('../images/background-mobile-gallery.png') no-repeat center cent
     .our-services {
         display: flex;
         margin-top: 50px;
-        padding: 40px;
     }
     
     .service-list {
