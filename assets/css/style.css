@@ -21,9 +21,14 @@ body {
     color: #304B33;
     font-size: 0.9rem;
     font-weight: 700;
-    text-decoration: none;
-    border-bottom: 1px solid #304B33;
+    text-decoration: underline;
 }
+
+.link-center {
+    text-align: center;
+    margin-top: 20px;
+}
+
 
 p {
     line-height: 1.5rem;
@@ -209,6 +214,14 @@ header {
     width: 150px;
 }
 
+.menu .active  {
+    color: #919F93;
+}
+ 
+#footer-navigation .active {
+    color: #919F93;
+}
+
 /* Dropdown toggle navigation styling */
 
 #header-navigation {
@@ -238,10 +251,6 @@ header {
 
 .menu li:last-child {
     border-bottom: 0px;
-}
-
-.menu .active {
-    color: #919F93;
 }
 
 /* Nav toggle */
@@ -520,10 +529,6 @@ main {
         border-bottom: 0px;
         display: inline-block;
         padding: 15px;
-    }
-    
-    .menu .active {
-        color: #919F93;
     }
 
     #logo img {
