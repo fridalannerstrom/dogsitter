@@ -392,6 +392,10 @@ main {
 
 /* Gallery section */
 
+#hero-section-gallery {
+background: url('../images/background-mobile-gallery.png') no-repeat center center/cover;
+}
+
 #gallery img {
     width: 100%;
     border-radius: 10px;
@@ -405,6 +409,10 @@ main {
 }
 
 /* Contact section */
+
+#hero-section-contact {
+    background: url('../images/background-mobile-contact.png') no-repeat center center/cover;
+}
 
 #booking-form {
     margin-top: 50px;
@@ -648,7 +656,18 @@ main {
         padding-top: 20px;
     }
 
+    /* Gallery */
+
+    #hero-section-gallery {
+        background: url('../images/background-desktop-gallery.png') no-repeat center center/cover;
+    }
+
     /* contact */
+
+    #hero-section-contact {
+        background: url('../images/background-desktop-contact.png') no-repeat center center/cover;
+    }
+
 
     #form-date {
         display: grid;
