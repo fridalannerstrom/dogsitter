@@ -332,7 +332,7 @@ main {
 
 .about-me {
     text-align: center;
-    padding-top: 70px;
+    margin-bottom: 40px;
 }
 
  .about-image-container img {
@@ -645,38 +645,9 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
         background: url('../images/background-desktop-about.webp') no-repeat top center/cover;
     }
     
-
-    .about-me {
-        display: flex;
-    }
-
-    .about-me-content {
-        width: 50%;
-        padding-right: 30px;
-        text-align: left; 
-        margin: auto;
-    }
-
-    .about-me-content h2 {
-        text-align: left; 
-    }
-
-    .about-me-content .topic-tag {
-        margin: 20px 0;
-    }
-
-    .about-me-image {
-        width: 50%;
-    }
-
-    .about-me-image img {
-        width: 100%;
-        padding-left: 30px;
-    }
-
-
     .about-container {
         display: flex;
+        gap: 60px;
     }
 
     .about-image-container {
@@ -692,6 +663,11 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
         width: 50%;
         margin: auto;
         padding-top: 20px;
+        text-align: left;
+    }
+
+    .about-information-container h2 {
+        text-align: left;
     }
 
     .about-information-container .topic-tag {
