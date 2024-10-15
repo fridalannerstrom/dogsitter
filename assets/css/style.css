@@ -102,10 +102,10 @@ button:hover,
 
 .intro-text {
     background-color: #F9F5F2;
-    padding: 40px 40px;
+    padding: 40px 40px 30px;
 }
 
-.intro-text h3 {
+.intro-text p {
     font-weight: 400;
     font-size: 1.1rem;
     text-align: center;
