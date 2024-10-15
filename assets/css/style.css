@@ -576,7 +576,7 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
     /* Hero section */
 
     #hero-section {
-        background: url('../images/background-desktop-index.webp') no-repeat center center/cover;
+        background: url('../images/background-desktop-index.webp') no-repeat top center/cover;
         justify-content: left;
         align-items: center;
     }
