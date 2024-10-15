@@ -49,7 +49,7 @@ button, .button-light {
     margin-top: 10px;
 }
 
-.button-light:hover {
+button:hover, .button-light:hover {
     background-color: #919F93;
     color: white;
 }
@@ -407,7 +407,7 @@ main {
 /* Gallery section */
 
 #hero-section-gallery {
-background: url('../images/background-mobile-gallery.png') no-repeat center center/cover;
+background: url('../images/background-mobile-gallery.jpg') no-repeat center center/cover;
 }
 
 #gallery img {
@@ -683,7 +683,7 @@ background: url('../images/background-mobile-gallery.png') no-repeat center cent
     /* Gallery */
 
     #hero-section-gallery {
-        background: url('../images/background-desktop-gallery.png') no-repeat center center/cover;
+        background: url('../images/background-desktop-gallery.jpg') no-repeat center center/cover;
     }
 
     /* contact */
