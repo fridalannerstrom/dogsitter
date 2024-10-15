@@ -122,7 +122,7 @@ button:hover, .button-light:hover {
 .cta-content {
     margin: 0px 40px;
     border-radius: 10px;
-    background: url('../images/contact-background.png') no-repeat center center/cover;
+    background: url('../images/contact-background.webp') no-repeat center center/cover;
     color: white;
     padding: 50px;
     text-align: center;
@@ -134,11 +134,11 @@ button:hover, .button-light:hover {
 }
 
 #cta-services {
-    background: url('../images/services-cta-background.png') no-repeat center center/cover;
+    background: url('../images/services-cta-background.webp') no-repeat center center/cover;
 }
 
 #FAQ-form {
-    background: url('../images/faq-cta-background.png') no-repeat center center/cover;
+    background: url('../images/faq-cta-background.webp') no-repeat center center/cover;
 }
 
 form {
@@ -292,7 +292,7 @@ main {
 /* Hero Section */
 
 #hero-section {
-    background: url('../images/dog.png') no-repeat bottom center/cover;
+    background: url('../images/dog.webp') no-repeat bottom center/cover;
     height: 90vh;
     min-height: 600px;
     max-height: 800px;
@@ -311,7 +311,7 @@ main {
 }
 
 .hero-section-subpage {
-    background: url('../images/background-desktop-services.png') no-repeat center center/cover;
+    background: url('../images/background-desktop-services.webp') no-repeat center center/cover;
     height: 300px;
     display: flex;
     justify-content: center;
@@ -327,7 +327,7 @@ main {
 /* About me */
 
 #hero-section-about {
-    background: url('../images/background-mobile-about.png') no-repeat center center/cover;
+    background: url('../images/background-mobile-about.webp') no-repeat center center/cover;
 }
 
 .about-me {
@@ -348,7 +348,7 @@ main {
 /* Services section */
 
 #hero-section-services {
-    background: url('../images/background-desktop-services.png') no-repeat center center/cover;
+    background: url('../images/background-desktop-services.webp') no-repeat center center/cover;
 }
 
 .service {
@@ -407,7 +407,7 @@ main {
 /* Gallery section */
 
 #hero-section-gallery {
-background: url('../images/background-mobile-gallery.jpg') no-repeat center center/cover;
+background: url('../images/background-mobile-gallery.webp') no-repeat center center/cover;
 }
 
 #gallery img {
@@ -425,7 +425,7 @@ background: url('../images/background-mobile-gallery.jpg') no-repeat center cent
 /* Contact section */
 
 #hero-section-contact {
-    background: url('../images/background-mobile-contact.png') no-repeat center center/cover;
+    background: url('../images/background-mobile-contact.webp') no-repeat center center/cover;
 }
 
 #booking-form {
@@ -433,7 +433,7 @@ background: url('../images/background-mobile-gallery.jpg') no-repeat center cent
 }
 
 #booking-form-background {
-background: url('../images/booking-cta-background.jpg') no-repeat center center/cover;
+background: url('../images/booking-cta-background.webp') no-repeat center center/cover;
 }
 
 #form-date {
@@ -528,7 +528,7 @@ background: url('../images/booking-cta-background.jpg') no-repeat center center/
     /* General styling */
 
     .booking-cta-container {
-        background: url('../images/cta-background-desktop.png') no-repeat top center/cover;
+        background: url('../images/cta-background-desktop.webp') no-repeat top center/cover;
     }
 
     .boxed-content {
@@ -576,7 +576,7 @@ background: url('../images/booking-cta-background.jpg') no-repeat center center/
     /* Hero section */
 
     #hero-section {
-        background: url('../images/background-desktop-index.png') no-repeat center center/cover;
+        background: url('../images/background-desktop-index.webp') no-repeat center center/cover;
         justify-content: left;
         align-items: center;
     }
@@ -631,7 +631,7 @@ background: url('../images/booking-cta-background.jpg') no-repeat center center/
     /* About me */
 
     #hero-section-about {
-        background: url('../images/background-desktop-about.png') no-repeat top center/cover;
+        background: url('../images/background-desktop-about.webp') no-repeat top center/cover;
     }
     
 
@@ -687,13 +687,13 @@ background: url('../images/booking-cta-background.jpg') no-repeat center center/
     /* Gallery */
 
     #hero-section-gallery {
-        background: url('../images/background-desktop-gallery.jpg') no-repeat center center/cover;
+        background: url('../images/background-desktop-gallery.webp') no-repeat center center/cover;
     }
 
     /* contact */
 
     #hero-section-contact {
-        background: url('../images/background-desktop-contact.png') no-repeat center center/cover;
+        background: url('../images/background-desktop-contact.webp') no-repeat center center/cover;
     }
 
 
