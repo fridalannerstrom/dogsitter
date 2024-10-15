@@ -432,6 +432,10 @@ background: url('../images/background-mobile-gallery.jpg') no-repeat center cent
     margin-top: 50px;
 }
 
+#booking-form-background {
+background: url('../images/booking-cta-background.jpg') no-repeat center center/cover;
+}
+
 #form-date {
     display: block;
     grid-template-columns: 1fr 1fr; /* Två kolumner av lika storlek */
