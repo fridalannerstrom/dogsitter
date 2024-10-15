@@ -93,7 +93,7 @@ button:hover, .button-light:hover {
     padding: 0px 0px;
     display: flex;
     box-sizing: border-box;
-    margin: 30px 0px;
+    margin: 30px auto;
     border-radius: 20px;
 }
 
@@ -455,7 +455,6 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
 #lost-page {
    text-align: center;
    height: fit-content;
-   margin-top: 70px;
 }
 
 #lost-page img {
@@ -687,13 +686,16 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
 
     .about-image-container img {
        width: 90%;
-        margin-right: 30px;
     }
 
     .about-information-container {
         width: 50%;
         margin: auto;
         padding-top: 20px;
+    }
+
+    .about-information-container .topic-tag {
+        margin: 30px 0px;
     }
 
     /* Gallery */
@@ -711,7 +713,18 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
 
     #form-date {
         display: grid;
-    }    
+    }   
+    
+    /* 404 page */
+
+    #lost-page {
+        text-align: left;
+        margin: 0px;
+    }
+
+    #lost-page .about-information-container {
+        padding-right: 50px;
+    }
 
     /* Footer */
 
