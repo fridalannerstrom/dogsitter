@@ -13,7 +13,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #000; 
+    color: #000;
     font-family: 'Work Sans', sans-serif;
 }
 
@@ -36,7 +36,9 @@ p {
     margin-bottom: 20px;
 }
 
-button, .button-light, .button {
+button,
+.button-light,
+.button {
     background-color: white;
     border-radius: 100px;
     padding: 15px 20px;
@@ -49,7 +51,8 @@ button, .button-light, .button {
     margin-top: 10px;
 }
 
-button:hover, .button-light:hover {
+button:hover,
+.button-light:hover {
     background-color: #919F93;
     color: white;
 }
@@ -148,14 +151,18 @@ form {
     align-items: center;
 }
 
-form input, form textarea, form select, form date {
+form input,
+form textarea,
+form select,
+form date {
     width: 100%;
-    max-width: 500px; /* set a max width to avoid it becoming too wide on large screens */
+    max-width: 500px;
+    /* set a max width to avoid it becoming too wide on large screens */
     padding: 15px;
     border-radius: 10px;
     font-family: 'Work Sans', sans-serif;
     margin-bottom: 30px;
-    border: none; 
+    border: none;
 }
 
 form label {
@@ -164,7 +171,8 @@ form label {
 
 /* Headings */
 
-h1, h2 {
+h1,
+h2 {
     font-family: 'Lora', serif;
     font-weight: 300;
     margin-bottom: 15px;
@@ -228,10 +236,10 @@ header {
     width: 150px;
 }
 
-.menu .active  {
+.menu .active {
     color: #919F93;
 }
- 
+
 #footer-navigation .active {
     color: #919F93;
 }
@@ -335,15 +343,15 @@ main {
     margin-bottom: 40px;
 }
 
- .about-image-container img {
+.about-image-container img {
     width: 100%;
     border-radius: 15px;
     margin-bottom: 20px;
- }
+}
 
- .about-container {
+.about-container {
     margin-top: 30px;
- }
+}
 
 /* Services section */
 
@@ -358,7 +366,9 @@ main {
     margin-top: 20px;
 }
 
-.fa-paw, .fa-moon, .fa-dog {
+.fa-paw,
+.fa-moon,
+.fa-dog {
     font-size: 1.7rem;
     color: #919F93;
     margin-bottom: 10px;
@@ -407,7 +417,7 @@ main {
 /* Gallery section */
 
 #hero-section-gallery {
-background: url('../images/background-mobile-gallery.webp') no-repeat center center/cover;
+    background: url('../images/background-mobile-gallery.webp') no-repeat center center/cover;
 }
 
 #gallery img {
@@ -433,12 +443,13 @@ background: url('../images/background-mobile-gallery.webp') no-repeat center cen
 }
 
 #booking-form-background {
-background: url('../images/booking-cta-background.webp') no-repeat center center/cover;
+    background: url('../images/booking-cta-background.webp') no-repeat center center/cover;
 }
 
 #form-date {
     display: block;
-    grid-template-columns: 1fr 1fr; /* Två kolumner av lika storlek */
+    grid-template-columns: 1fr 1fr;
+    /* Två kolumner av lika storlek */
     gap: 20px;
     width: 100%;
     flex-direction: column;
@@ -453,13 +464,13 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
 /* 404 */
 
 #lost-page {
-   text-align: center;
-   height: fit-content;
+    text-align: center;
+    height: fit-content;
 }
 
 #lost-page img {
     margin-top: 50px;
- }
+}
 
 /* Footer */
 
@@ -524,11 +535,11 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
 
 /* Media Query */
 
-@media screen and (min-width: 576px) { 
-#gallery {
-    column-count: 2;
-    column-gap: 0.7rem;
-}
+@media screen and (min-width: 576px) {
+    #gallery {
+        column-count: 2;
+        column-gap: 0.7rem;
+    }
 
 }
 
@@ -566,12 +577,12 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
     .nav-toggle-label {
         display: none;
     }
-    
+
     .menu a {
         font-size: 1rem;
         color: black;
     }
-    
+
     .menu li {
         border-bottom: 0px;
         display: inline-block;
@@ -581,8 +592,8 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
     #logo img {
         width: 200px;
     }
-   
-    /* Content */ 
+
+    /* Content */
 
     /* Hero section */
 
@@ -599,13 +610,13 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
     }
 
     .hero-section-subpage {
-    height: 400px;
-}
+        height: 400px;
+    }
 
     .hero-section-subpage-content {
-    padding-top: 100px;
-    max-width: 400px;
-}
+        padding-top: 100px;
+        max-width: 400px;
+    }
 
     /* Services */
 
@@ -619,12 +630,12 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
         padding-top: 50px;
         margin-top: 50px;
     }
-    
+
     .service-list {
         width: 50%;
         padding-left: 30px;
     }
-    
+
     .service-list-item {
         background-color: #F9F5F2;
         border-radius: 10px;
@@ -632,7 +643,7 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
         margin-bottom: 10px;
         font-size: 0.9rem;
     }
-    
+
     .service-list-item i {
         font-size: 1rem;
         margin-right: 10px;
@@ -644,7 +655,7 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
     #hero-section-about {
         background: url('../images/background-desktop-about.webp') no-repeat top center/cover;
     }
-    
+
     .about-container {
         display: flex;
         gap: 60px;
@@ -656,7 +667,7 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
     }
 
     .about-image-container img {
-       width: 90%;
+        width: 90%;
     }
 
     .about-information-container {
@@ -689,8 +700,8 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
 
     #form-date {
         display: grid;
-    }   
-    
+    }
+
     /* 404 page */
 
     #lost-page {
@@ -708,15 +719,15 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
         display: flex;
         justify-content: center;
     }
-    
+
     .footer-contact {
         width: 40%;
-    }  
+    }
 
 }
 
 @media screen and (min-width: 1200px) {
-    
+
     /* Services section */
 
     #presented-services {
@@ -724,11 +735,10 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
         gap: 20px;
     }
 
-        /* Gallery */
+    /* Gallery */
 
-        #gallery {
-            column-count: 3;
-            column-gap: 0.7rem;
-        }
+    #gallery {
+        column-count: 3;
+        column-gap: 0.7rem;
     }
-
+}
