@@ -36,7 +36,7 @@ p {
     margin-bottom: 20px;
 }
 
-button, .button-light {
+button, .button-light, .button {
     background-color: white;
     border-radius: 100px;
     padding: 15px 20px;
@@ -449,6 +449,18 @@ background: url('../images/booking-cta-background.webp') no-repeat center center
 #form-date input {
     margin-top: 10px;
 }
+
+/* 404 */
+
+#lost-page {
+   text-align: center;
+   height: fit-content;
+   margin-top: 70px;
+}
+
+#lost-page img {
+    margin-top: 50px;
+ }
 
 /* Footer */
 
