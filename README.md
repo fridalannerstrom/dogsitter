@@ -58,8 +58,8 @@ Present wireframes of pages, detailing how they align with the goals and user st
 
 <details>
   <summary>💻 Click to view Tablet Wireframes</summary>
-  <img src="#" width="100%">
-  <img src="#" width="100%">
+  <img src="assets/images/wireframes-tablet-1.webp" width="100%">
+  <img src="assets/images/wireframes-tablet-2.webp" width="100%">
 </details>
 
 <details>
