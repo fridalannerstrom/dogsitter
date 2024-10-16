@@ -50,6 +50,12 @@ Include the main user stories the website focuses on. Also, mention potential fu
 ### Wireframes
 Present wireframes of pages, detailing how they align with the goals and user stories.
 
+<details>
+  <summary>Wireframes Mobile</summary>
+  <img src="assets/images/wireframes-mobile-1.webp" width="100%">
+  <img src="assets/images/wireframes-mobile-2.webp" width="100%">
+</details>
+
 ### Graphic Design & Color Scheme
 List the chosen icons, fonts, color scheme, and images (from the moodboard) and describe why they were selected.
 
