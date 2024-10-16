@@ -51,9 +51,21 @@ Include the main user stories the website focuses on. Also, mention potential fu
 Present wireframes of pages, detailing how they align with the goals and user stories.
 
 <details>
-  <summary>Wireframes Mobile</summary>
+  <summary>📱 Click to view Mobile Wireframes</summary>
   <img src="assets/images/wireframes-mobile-1.webp" width="100%">
   <img src="assets/images/wireframes-mobile-2.webp" width="100%">
+</details>
+
+<details>
+  <summary>💻 Click to view Tablet Wireframes</summary>
+  <img src="#" width="100%">
+  <img src="#" width="100%">
+</details>
+
+<details>
+  <summary>🖥️ Click to view Desktop Wireframes</summary>
+  <img src="#" width="100%">
+  <img src="#" width="100%">
 </details>
 
 ### Graphic Design & Color Scheme
