@@ -7,52 +7,110 @@ The website is designed with a modern, clean aesthetic to present Sunne Dogcare 
 ## Table of content
 
 1. [User Experience (UX)](#user-experience-ux)
-   - [Goals](#Goals) - Goals of Sunne Dogcare, who the target group is, user goals, how sunne dogcare fills the need, sunne dogcare business goals (for eg. feeling trustworthy for new clients)
-   - [User Stories](#user-stories) - The main user stories that the website focuses on, and feuture user stories
-   - [Wireframes](#wireframes) - Wireframes of pages based on goals and user stories
-   - [Graphic Design & Color Scheme](#graphic-design--color-scheme) - Icon, fonts, color scheme, images (moodboard)
-   - [UI/UX Design](#uiux-design) - Complete UI/UX design, mobile, tablet and desktop
+   - [Goals](#Goals) 
+   - [User Stories](#user-stories) 
+   - [Wireframes](#wireframes) 
+   - [Graphic Design & Color Scheme](#graphic-design--color-scheme) 
+   - [UI/UX Design](#uiux-design) 
 
 2. [Features](#features)
    - [Page Elements](#page-elements)
    - [Key Features](#key-features)
-   - [Additional Features](#additional-features)
+   - [Future Features](#additional-features)
    
 3. [Tools and Technologies](#tools-and-technologies)
    - [Languages](#languages)
-   - [Frameworks](#frameworks)
    - [Libraries](#libraries)
-   - [Development Tools](#development-tools)
+   - [Development Tools](#development-tools) 
+   - [Other Tools](#other-tools)
    
 4. [Testing](#testing)
-   - [Test Methods](#test-methods)
-   - [Bugs](#bugs)
+   - [Test Methods](#test-methods) 
+   - [Bugs](#bugs) 
    
 5. [Deployment](#deployment)
-   - [Local Deployment](#local-deployment)
-   - [GitHub Deployment](#github-deployment) - started using conventional commits
+   - [Local Deployment](#local-deployment) 
+   - [GitHub Deployment](#github-deployment)
    
 6. [Credits and Contact](#credits-and-acknowledgments)
-   - [Content Sources](#content-sources)
-   - [Contact Information](#contact-information)
+   - [Content & Media](#content-sources)
+   - [Other](#contact-information)
 
 
-## UX
+---
 
-<details>
-  <summary>User Stories</summary>
+## User Experience (UX)
 
-  - As a dog owner, I want to be able to see the services offered, so I can choose the right service for my dog.
-  - As a potential client, I want to know more about the dog sitter, so I can feel confident leaving my dog in good hands.
-  
-</details>
+### Goals
+Define the goals of Sunne Dogcare, including target group, user goals, how Sunne Dogcare fills the need, and business goals (for example, building trust with new clients).
+
+### User Stories
+Include the main user stories the website focuses on. Also, mention potential future user stories for expansion.
+
+### Wireframes
+Present wireframes of pages, detailing how they align with the goals and user stories.
+
+### Graphic Design & Color Scheme
+List the chosen icons, fonts, color scheme, and images (from the moodboard) and describe why they were selected.
+
+### UI/UX Design
+Overview of the UI/UX design process, including mobile, tablet, and desktop versions.
+
+---
 
 ## Features
 
+### Page Elements
+Brief explanation of the main elements used on the pages (e.g., header, navigation, footer).
+
+### Key Features
+Highlight the core features that were implemented and why they are important for the user and business goals (services, booking form, gallery).
+
+### Future Features
+A list of potential features that could be implemented in future versions of the website (Availability Calendar, Review and Rating System, Live Chat for Customer Support).
+
+---
+
 ## Tools and Technologies
+
+### Languages
+List the programming languages used for the project (only HTML, CSS).
+
+### Libraries
+Reference external libraries or tools used in the project (Font Awesome, Google Fonts).
+
+### Development Tools
+Note the tools used during development (Git, GitHub, GitHub Pages, Gitpod).
+
+### Other Tools
+Favicon generator, mockup generator, Adobe XD.
+
+---
 
 ## Testing
 
+### Test Methods
+HTML/CSS validator, link checker, test browsers, test responsiveness, pageview insights, user stories.
+
+### Bugs
+Detail any bugs encountered during development, how they were resolved, and unresolved bugs (contrast issues, H3 before H2, aria-label missing).
+
+---
+
 ## Deployment
 
+### Local Deployment
+Instructions for setting up and deploying the project locally.
+
+### GitHub Deployment
+Explain the GitHub Pages deployment process and provide instructions on how to find the live site.
+
+---
+
 ## Credits and Contact
+
+### Content & Media
+Unsplash, CloudConvert, Font Awesome, Google Fonts, W3Schools, ChatGPT, Conventional Commits, Hot Mess logo font.
+
+### Other
+Code Institute, Rory.
