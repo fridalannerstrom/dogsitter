@@ -113,4 +113,4 @@ Explain the GitHub Pages deployment process and provide instructions on how to f
 Unsplash, CloudConvert, Font Awesome, Google Fonts, W3Schools, ChatGPT, Conventional Commits, Hot Mess logo font.
 
 ### Other
-Code Institute, Rory.
+Code Institute, love runners project. Rory.
