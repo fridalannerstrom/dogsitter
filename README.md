@@ -157,7 +157,23 @@ The logo for Sunne Dogcare uses the font [Hot Mess by Sam Parrett](https://www.b
 The icons used throughout the design are from [Font Awesome](https://fontawesome.com/) in the bold solid style. Icons are an important part of the branding, as they help convey messages in a simpler and more visual way. The icons chosen are closely associated with dogs and nature, such as a bone, paw print, and forest.
 
 <p style="text-align: center;">
-<img src="assets/images/icons.webp" width="600px">
+<img src="assets/images/icons.webp" width="300px">
+</p>
+
+### Media
+
+The images used on the site will focus on dogs highlighting themes of nature, forest, warmth, and joy. The photos will predominantly feature green and natural bright tones to align with the overall design, avoiding sharp or overly bright colors. Warm, earthy hues will be prioritized to create a welcoming and soothing atmosphere, reinforcing the connection to the countryside and the caring environment that Sunne Dogcare offers.
+
+The images are sourced from [Unsplash](https://unsplash.com/) via an Unsplash+ subscription.
+
+<p style="text-align: center;">
+<img src="assets/images/photos.webp" width="600px">
+</p>
+
+Additionally, some background images are used with a subtle green overlay.
+
+<p style="text-align: center;">
+<img src="assets/images/brand-background.webp" width="600px">
 </p>
 
 ## UI/UX Design
