@@ -75,7 +75,14 @@ The goal of Sunne Dogcare is to offer a warm, welcoming, and trustworthy dog-sit
 
 
 ## User Stories
-Include the main user stories the website focuses on. Also, mention potential future user stories for expansion.
+1. **As a dog owner,** I want to easily find information about the different dog-sitting services available, so I can choose the best option for my dog.
+2. **As a potential dog owner,** I want to learn about the dog-sitter and see photos of the farm, so I can feel confident that I have a reliable dog-sitting solution in place before deciding to get a dog.
+3. **As a busy dog owner,** I want a simple and clear booking process, so I can quickly schedule dog-sitting without filling out unnecessary forms.
+4. **As a first-time visitor to the site,** I want to see the happy and welcoming environment through photos and descriptions, so I feel reassured about leaving my dog in good hands.
+5. **As a returning customer,** I want easy access to the booking page, so I can quickly schedule a service I already know and trust.
+6. **As a dog owner,** I want to clearly see the prices for each service, so I can plan my budget without surprises.
+7. **As a dog owner,** I want to follow the dog-sitter’s social media to stay updated on the services and see more of the dogs being cared for, so I can feel connected to the service.
+8. **As a dog owner,** I want to feel confident that my dog is in safe hands, so I can relax knowing they are well cared for while I'm away.
 
 ## Wireframes
 Present wireframes of pages, detailing how they align with the goals and user stories.
