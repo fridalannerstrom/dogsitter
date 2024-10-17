@@ -162,7 +162,7 @@ The icons used throughout the design are from [Font Awesome](https://fontawesome
 
 ### Media
 
-The images used on the site will focus on dogs highlighting themes of nature, forest, warmth, and joy. The photos will predominantly feature green and natural bright tones to align with the overall design, avoiding sharp or overly bright colors. Warm, earthy hues will be prioritized to create a welcoming and soothing atmosphere, reinforcing the connection to the countryside and the caring environment that Sunne Dogcare offers.
+The images used on the site will focus on dogs highlighting themes of nature, forest, warmth, and joy. The photos will predominantly feature green and natural bright tones to align with the overall design, avoiding sharp or overly bright colors. Warm, earthy hues will be prioritized to create a welcoming and soothing atmosphere, reinforcing the connection to the countryside and the caring environment that Sunne Dogcare offers. All images will have rounded borders to create a softer and more welcoming feel.
 
 The images are sourced from [Unsplash](https://unsplash.com/) via an Unsplash+ subscription.
 
