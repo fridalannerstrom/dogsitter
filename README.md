@@ -177,7 +177,25 @@ Additionally, some background images are used with a subtle green overlay.
 </p>
 
 ## UI/UX Design
-Overview of the UI/UX design process, including mobile, tablet, and desktop versions.
+
+
+<details>
+  <summary>📱 Click to view Mobile UI</summary>
+  <img src="assets/images/UI-mobile-1.webp" width="100%">
+  <img src="assets/images/UI-mobile-2.webp" width="100%">
+</details>
+
+<details>
+  <summary>💻 Click to view Tablet UI</summary>
+  <img src="assets/images/UI-tablet-1.webp" width="100%">
+  <img src="assets/images/UI-tablet-2.webp" width="100%">
+</details>
+
+<details>
+  <summary>🖥️ Click to view Desktop Wireframes</summary>
+  <img src="assets/images/wireframes-desktop-1.webp" width="100%">
+  <img src="assets/images/wireframes-desktop-2.webp" width="100%">
+</details>
 
 ---
 
