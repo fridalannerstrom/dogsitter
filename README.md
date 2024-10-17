@@ -1,4 +1,4 @@
-<img src="assets/images/paw_play_logo_white.webp" width="300px">
+<p style="text-align: center;"><img src="assets/images/paw_play_logo_white.webp" width="600px"></p>
 
 [Sunne Dogcare](https://fridalannerstrom.github.io/dogsitter/) is a website designed for a local dog-sitting service based in Sunne, Sweden. The purpose of this project is to provide a professional and user-friendly platform for the business, allowing potential clients to easily explore the available services, get to know the dog sitter, and contact the owner for bookings or inquiries.
 
@@ -106,7 +106,21 @@ Wireframes were created using Adobe XD, with a strong focus on the user goals, b
 </details>
 
 ## Graphic Design & Color Scheme
-List the chosen icons, fonts, color scheme, and images (from the moodboard) and describe why they were selected.
+The design, fonts, and media are all focused on creating a warm, trustworthy feel that reflects nature and the calm of the surrounding forest. The goal is to make the user feel secure and confident in the services, while keeping things professional. At the same time, the design ensures that the message is clear and easy to take in quickly, so users can find what they need without any hassle.
+
+### Colors
+
+- **Primary Color:** The design primarily uses three shades of green as the main color. Green was chosen for its strong association with nature, conveying a sense of calm and reliability —q ualities that align well with the values of a dog-sitting service in a rural setting. Additionally, green represents safety and harmony, which are qualities that Sunne Dogcare wants to convey to its users.
+- **Secondary Color:** A warm, light color is used as the secondary color to add warmth to the design. This shade leans towards orange, a color often linked with happiness and positivity, which complements the joyful and caring atmosphere of the business.
+- **Base Colors:** Black and white are employed as the base colors. Black adds contrast and elegance, helping to ground the design and highlight key elements, while white brings clarity and simplicity, ensuring that the overall message is clear and easy to read. 
+
+Together, these colors create a balanced and professional look, enhancing the user experience without overwhelming the content.
+
+<p style="text-align: center;">
+  <img src="assets/images/colors.webp" width="600px">
+</p>
+
+
 
 ### Fonts
 
@@ -125,11 +139,13 @@ By combining a serif and a sans-serif font, the design achieves a balanced look 
 - **Links** are underlined in green with arrow icon.
 - **CTA Buttons** come in two styles: Light, with white background and black text, and Dark, with green background and white text. Both light and dark have the same hover style.
 
+<p style="text-align: center;">
+<img src="assets/images/fonts.webp" width="600px">
+</p>
 
-<img src="assets/images/fonts.webp" width="600px"> 
-
+<p style="text-align: center;">
 <img src="assets/images/heading-text-buttons.webp" width="600px">
-
+</p>
 
 ## UI/UX Design
 Overview of the UI/UX design process, including mobile, tablet, and desktop versions.
