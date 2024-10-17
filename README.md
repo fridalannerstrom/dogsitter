@@ -85,7 +85,7 @@ The goal of Sunne Dogcare is to offer a warm, welcoming, and trustworthy dog-sit
 8. **As a dog owner,** I want to feel confident that my dog is in safe hands, so I can relax knowing they are well cared for while I'm away.
 
 ## Wireframes
-Present wireframes of pages, detailing how they align with the goals and user stories.
+Wireframes were created using Adobe XD, with a strong focus on the user goals, business goals, and user stories. These wireframes serve as the foundation for the design and structure of the website.
 
 <details>
   <summary>📱 Click to view Mobile Wireframes</summary>
@@ -107,6 +107,28 @@ Present wireframes of pages, detailing how they align with the goals and user st
 
 ## Graphic Design & Color Scheme
 List the chosen icons, fonts, color scheme, and images (from the moodboard) and describe why they were selected.
+
+### Fonts
+
+#### Fonts choosen
+- **Lora** for headings – a serif font that conveys a professional and trustworthy impression, adding a sense of seriousness and reliability to the site. 
+- **Work Sans** for paragraph text – a basic and modern sans-serif font chosen for its readability, particularly on screens and smaller devices.
+
+By combining a serif and a sans-serif font, the design achieves a balanced look that feels both professional and approachable, as well as inviting and personal. These two fonts complement each other well, enhancing the overall user experience.
+
+#### Fonts styling
+
+- **Lora** for headings (H1, H2)
+- **Work Sans** for paragraphs and H3 (Work Sans used instead of Lora for H3 due to better readability).
+- **Highlighted text** is Work Sans in bold green
+- **Topic Tag**, to help users quickly identify content, has a green background and light, uppercase text in Work Sans.
+- **Links** are underlined in green with arrow icon.
+- **CTA Buttons** come in two styles: Light, with white background and black text, and Dark, with green background and white text. Both light and dark have the same hover style.
+
+
+<img src="assets/images/fonts.webp" width="600px"> 
+
+<img src="assets/images/heading-text-buttons.webp" width="600px">
 
 
 ## UI/UX Design
