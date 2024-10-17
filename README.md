@@ -120,8 +120,6 @@ Together, these colors create a balanced and professional look, enhancing the us
   <img src="assets/images/colors.webp" width="600px">
 </p>
 
-
-
 ### Fonts
 
 #### Fonts choosen
@@ -145,6 +143,21 @@ By combining a serif and a sans-serif font, the design achieves a balanced look 
 
 <p style="text-align: center;">
 <img src="assets/images/heading-text-buttons.webp" width="600px">
+</p>
+
+### Logotype
+The logo for Sunne Dogcare uses the font [Hot Mess by Sam Parrett](https://www.behance.net/gallery/79231099/Hot-Mess-SVG-Font). This slightly messy, handwritten font was chosen to create a contrast with the otherwise clean and polished design of the brand. The playful, informal style of the font reflects the more unpredictable and sometimes chaotic nature of dog-sitting, making it a fitting choice for the brand.
+
+<p style="text-align: center;">
+<img src="assets/images/logotype.webp" width="600px">
+</p>
+
+### Icons
+
+The icons used throughout the design are from [Font Awesome](https://fontawesome.com/) in the bold solid style. Icons are an important part of the branding, as they help convey messages in a simpler and more visual way. The icons chosen are closely associated with dogs and nature, such as a bone, paw print, and forest.
+
+<p style="text-align: center;">
+<img src="assets/images/icons.webp" width="600px">
 </p>
 
 ## UI/UX Design
