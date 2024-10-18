@@ -397,6 +397,18 @@ Throughout the project, I prioritized responsive design by continuously testing 
 
 ### Pagespeed Insights
 
+There are some performance issues across all pages, some of them are due to the large size of images. Future development of the site should focus on optimizing images for the web.
+
+| Page      | Mobile   | Desktop | 
+| --------- | -------- | ---------- | 
+| Homepage  | ![Page Insights Mobile Homepage](assets/images/documentation/pi-home-mobile.png) | ![Page Insights Desktop Homepage](assets/images/documentation/pi-home-desktop.png) | 
+| Services  | ![Page Insights Mobile Services](assets/images/documentation/pi-services-mobile.png) | ![Page Insights Desktop Services](assets/images/documentation/pi-services-desktop.png) | 
+| Gallery   | ![Page Insights Mobile Gallery](assets/images/documentation/pi-gallery-mobile.png) | ![Page Insights Desktop Gallery](assets/images/documentation/pi-gallery-desktop.png) | 
+| About     | ![Page Insights Mobile About](assets/images/documentation/pi-about-mobile.png) | ![Page Insights Desktop About](assets/images/documentation/pi-about-desktop.png) | 
+| Contact   | ![Page Insights Mobile Contact](assets/images/documentation/pi-contact-mobile.png) | ![Page Insights Desktop Contact](assets/images/documentation/pi-contact-desktop.png) | 
+| Thank you | ![Page Insights Mobile Thank You](assets/images/documentation/pi-thankyou-mobile.png) | ![Page Insights Desktop Thank You](assets/images/documentation/pi-thankyou-desktop.png) | 
+| 404       | ![Page Insights Mobile 404](assets/images/documentation/pi-404-mobile.png) | ![Page Insights Desktop 404](assets/images/documentation/pi-404-desktop.png) | 
+
 ### User Story Testing
 
 ### Bugs
