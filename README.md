@@ -411,6 +411,17 @@ There are some performance issues across all pages, some of them are due to the 
 
 ### User Story Testing
 
+| User Story      | User path   | Screenshot | 
+| --------- | -------- | ---------- | 
+| **As a dog owner,** I want to easily find information about the different dog-sitting services available, so I can choose the best option for my dog. | *Homepage > Services* | ![Service Page](assets/images/documentation/us-service.png) | 
+| **As a potential dog owner,** I want to learn about the dog-sitter and see photos of the farm, so I can feel confident that I have a reliable dog-sitting solution in place before deciding to get a dog. | *Homepage > About* | ![About Page](assets/images/documentation/us-about.png) | 
+| **As a busy dog owner,** I want a simple and clear booking process, so I can quickly schedule dog-sitting without filling out unnecessary forms. | *Homepage > Contact & Booking* | ![Booking Page](assets/images/documentation/us-contact.png) | 
+| **As a first-time visitor to the site,** I want to see the happy and welcoming environment through photos and descriptions, so I feel reassured about leaving my dog in good hands. | *Homepage > Gallery* | ![Gallery Page](assets/images/documentation/us-gallery.png) | 
+| **As a returning customer,** I want easy access to the booking page, so I can quickly schedule a service I already know and trust. | *Homepage > Contact & Booking* | ![Booking Page](assets/images/documentation/us-contact.png) | 
+| **As a dog owner,** I want to clearly see the prices for each service, so I can plan my budget without surprises. | *Homepage > Services* | ![Services Page](assets/images/documentation/us-service.png) | 
+| **As a dog owner,** I want to follow the dog-sitter’s social media to stay updated on the services and see more of the dogs being cared for, so I can feel connected to the service. | *Homepage (footer)* | ![Homepage (footer)](assets/images/documentation/us-footer.png) | 
+| **As a dog owner,** I want to feel confident that my dog is in safe hands, so I can relax knowing they are well cared for while I'm away. | *Homepage > About* | ![About Page](assets/images/documentation/us-about.png) | 
+
 ### Bugs
 Detail any bugs encountered during development, how they were resolved, and unresolved bugs (contrast issues, H3 before H2, aria-label missing).
 
