@@ -262,6 +262,13 @@ Each subpage follows a consistent layout with a hero section that includes a pro
 
 ### Notification Page
 
+The notification page does not include a hero section; instead, you are presented with the relevant information immediately. This page is designed to deliver messages without the need for persuasive content or elaborate design elements. The text is written in a playful, dog-themed tone to stay true to the brand and maintain a fun, engaging connection to the dog care business.
+
+| Section | Description | Mobile | Desktop |
+| ------- | ----------- | ------ | ------- |
+| **Hero Section** | Heading, paragraph and button to homepage. Image to make the design more visually engaging | ![Thank You Mobile](assets/images/documentation/thankyou-mobile.png) | ![Thank You Desktop](assets/images/documentation/thankyou-desktop.png) | 
+
+
 ## Key Features
 
 - Services page; services
