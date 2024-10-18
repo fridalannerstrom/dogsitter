@@ -73,13 +73,13 @@ The goal of Sunne Dogcare is to offer a warm, welcoming, and trustworthy dog-sit
 
 | Feature | Description | Reinforces goal |
 | ------- | ----------- | --------------- |
-| **Personal touch:** | Introduce the dog-sitter right away with personal photos, also a personal about page introducing the farm and animals, and social media | *Build trust* and *Read about Sunne Dogcare* |
-| **Gallery of happy dogs:** | Showcase happy dogs in a gallery to highlight the positive environment | *Attract new customers* |
-| **Simplify services:** | Focus on just three clear, easy-to-book services to avoid overwhelming users | *Enable easy booking* and *Read about services* |
-| **Clear service information:** | Use bullet points to present services with clear descriptions and pricing. Link to service page reappears in several places | *Provide clear information about services* and *Read about services* |
-| **Visual aids:** | Use icons to make information easy to understand and visually engaging | *Provide clear information about services* and *Read about Sunne Dogcare* |
-| **Easy booking page:** | A dedicated booking page with minimal fields makes booking quick and simple. | *Enable easy booking* and *Book a service* |
-| **Light, natural colors:** | Use warm, natural colors to create a friendly, rural feel, matching the environment | *Build trust* |
+| **Personal touch** | Introduce the dog-sitter right away with personal photos, also a personal about page introducing the farm and animals, and social media | *Build trust* and *Read about Sunne Dogcare* |
+| **Gallery of happy dogs** | Showcase happy dogs in a gallery to highlight the positive environment | *Attract new customers* |
+| **Simplify services** | Focus on just three clear, easy-to-book services to avoid overwhelming users | *Enable easy booking* and *Read about services* |
+| **Clear service information** | Use bullet points to present services with clear descriptions and pricing. Link to service page reappears in several places | *Provide clear information about services* and *Read about services* |
+| **Visual aids** | Use icons to make information easy to understand and visually engaging | *Provide clear information about services* and *Read about Sunne Dogcare* |
+| **Easy booking page** | A dedicated booking page with minimal fields makes booking quick and simple. | *Enable easy booking* and *Book a service* |
+| **Light, natural colors** | Use warm, natural colors to create a friendly, rural feel, matching the environment | *Build trust* |
 
 
 ## User Stories
