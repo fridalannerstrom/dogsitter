@@ -151,7 +151,7 @@ p {
         url('../images/dog7.webp') no-repeat center center/cover;
 }
 
-/* Booking form */
+/* Form */
 
 form {
     width: 100%;
@@ -186,6 +186,21 @@ form label {
     color: white;
     padding: 50px;
     text-align: center;
+}
+
+#form-date {
+    display: block;
+    /* Two columns of equal size */
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px;
+}
+
+#form-date input {
+    margin-top: 10px;
 }
 
 /* Headings */
@@ -463,21 +478,6 @@ main {
         url('../images/booking-cta-background.webp') no-repeat center center/cover;
 }
 
-#form-date {
-    display: block;
-    /* Two columns of equal size */
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-    width: 100%;
-    flex-direction: column;
-    align-items: center;
-    max-width: 500px;
-}
-
-#form-date input {
-    margin-top: 10px;
-}
-
 /* Notice page */
 
 .notice-page {
@@ -615,13 +615,14 @@ main {
     }
 }
 
+/* Gallery column styling */
+
 @media screen and (min-width: 576px) {
 
     #gallery {
         column-count: 2;
         column-gap: 0.7rem;
     }
-
 }
 
 /* Large devices (laptops and desktops, 768px and up) */
@@ -797,7 +798,6 @@ main {
     .footer-contact {
         width: 40%;
     }
-
 }
 
 /* Extra large screens */
