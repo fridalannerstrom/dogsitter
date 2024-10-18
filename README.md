@@ -281,28 +281,20 @@ The notification page does not include a hero section; instead, you are presente
 
 | Section | Description | Mobile | Tablet | Desktop |
 | ------- | ----------- | ------ | ------ | ------- |
-| **Gallery** | Hero section with a CTA button leading to the booking page. | ![Hero mobile](assets/images/documentation/hero-section-mobile.png) | ![Hero Desktop](assets/images/documentation/hero-image.png) | 
+| **Gallery** | Gallery section featuring images of happy dogs being cared for, designed to build trust and add a personal touch. | ![Gallery mobile](assets/images/documentation/gallery-section-mobile.png) | ![Gallery Tablet](assets/images/documentation/gallery-section-tablet.png) | ![Gallery Desktop](assets/images/documentation/gallery-section.png) | 
 
 ### About
 
 | Section | Description | Mobile | Desktop |
 | ------- | ----------- | ------ | ------- | 
-| **About Dogsitter** | Hero section with a CTA button leading to the booking page. | ![Hero mobile](assets/images/documentation/hero-section-mobile.png) | ![Hero Desktop](assets/images/documentation/hero-image.png) | 
-| **About Dogs/Farm** | Hero section with a CTA button leading to the booking page. | ![Hero mobile](assets/images/documentation/hero-section-mobile.png) | ![Hero Desktop](assets/images/documentation/hero-image.png) | 
+| **About Dogsitter** | Section introducing the dog sitter to create a personal and trustworthy connection, including a list of experience details to build trust and confidence. | ![Dogsitter Mobile](assets/images/documentation/about-dogsitter.png) | ![Dogsitter Desktop](assets/images/documentation/about-dogsitter-desktop.png) | 
+| **About Dogs/Farm** | Section describing the property and the resident dogs, giving owners a glimpse of who their dog will interact with and the environment where their dog will stay. | ![Dogs/Farm Mobile](assets/images/documentation/about-dog-farm-mobile.png) | ![Dogs/Farm Desktop](assets/images/documentation/about-dog-farm-desktop.png) | 
 
 ### Contact/Bookings
 
 | Section | Description | Mobile | Desktop |
 | ------- | ----------- | ------ | ------- | 
-| **Booking form** | Hero section with a CTA button leading to the booking page. | ![Hero mobile](assets/images/documentation/hero-section-mobile.png) | ![Hero Desktop](assets/images/documentation/hero-image.png) | 
-
-
-
-
-
-
-- Services page; services
-- Gallery, with column width
+| **Booking form** | Booking form for easily scheduling dog care, with required fields for name, email, service, drop-off, and pick-up. The message field is optional. Upon submission, users are redirected to a thank you page confirming their booking. | ![Booking Mobile](assets/images/documentation/booking-mobile.png) | ![Hero Desktop](assets/images/documentation/booking-desktop.png) | 
 
 ## Feature Changes
 Changes to the design; service page design with lighter box on desktop, list in about me page
