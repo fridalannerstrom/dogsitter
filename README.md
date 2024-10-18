@@ -307,26 +307,33 @@ Throughout the development process, changes were made to the design, content, se
 | **🗑️Removal** | Service Button | Having a separate CTA button for booking each service was unnecessary, as the same booking form applies to all services. | ![Old Services Button](assets/images/documentation/services-old.png) | ![New Services Button](assets/images/documentation/services-page-desktop.png) | 
 | **✅Addition** | List | The section about the dog sitter felt dull with only paragraph text. A list was added to clearly highlight the sitter's experience, making the information more engaging and easier to absorb. | ![Old About](assets/images/documentation/old-about-dogsitter.png) | ![New About](assets/images/documentation/about-dogsitter-desktop.png) | 
 
-
-Changes to the design; service page design with lighter box on desktop, list in about me page
-
 ## Future Features
-A list of potential features that could be implemented in future versions of the website (Availability Calendar, Review and Rating System, Live Chat for Customer Support).
+Here are some ideas for expanding the website in future development phases. 
+
+1. **Booking calendar:** Implement a calendar system to allow users to select dates and times more intuitively, while also viewing availability. For example, fully booked days could be marked in red and nearly full days in orange. Additionally, a feature to search for availability on specific dates would enhance the booking process.
+
+2. **Review system:** Introduce a review system where dog owners can leave feedback after using the service. This could include star ratings and written reviews displayed on the website. An automated email could be sent to clients after they pick up their dog, encouraging them to submit a review.
+
+3. **Live chat/Customer support:** Add a chat feature or support system, allowing users to ask quick questions or get in touch directly from the website, ensuring faster communication and customer service.
+
+4. **Owner updates and reports:** Develop a system for sending updates, pictures, and reports directly to dog owners. This would allow tracking of activities like walks and feeding, keeping owners informed about their dog’s care in real-time.
+
+5. **Online payment integration:** Enable users to complete payments directly through the website during the booking process, offering a seamless and convenient checkout experience.
 
 ---
 
-## Tools and Technologies
+# Tools and Technologies
 
-### Languages
+## Languages
 List the programming languages used for the project (only HTML, CSS).
 
-### Libraries
+## Libraries
 Reference external libraries or tools used in the project (Font Awesome, Google Fonts).
 
-### Development Tools
+## Development Tools
 Note the tools used during development (Git, GitHub, GitHub Pages, Gitpod).
 
-### Other Tools
+## Other Tools
 Favicon generator, mockup generator, Adobe XD.
 
 ---
