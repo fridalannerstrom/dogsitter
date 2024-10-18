@@ -1,3 +1,6 @@
+
+![Sunne Dogcare Mockup](assets/images/documentation/mockup.png)
+
 ![Logotype](assets/images/documentation/logotype.png)
 
 [Sunne Dogcare](https://fridalannerstrom.github.io/dogsitter/) is a website designed for a local dog-sitting service based in Sunne, Sweden. The purpose of this project is to provide a professional and user-friendly platform for the business, allowing potential clients to easily explore the available services, get to know the dog sitter, and contact the owner for bookings or inquiries.
