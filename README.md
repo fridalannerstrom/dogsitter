@@ -382,6 +382,16 @@ I have validated my HTML code using **[HTML W3C Validator](https://validator.w3.
 
 ### Browser Compatibility
 
+The website has been tested using **[Browserling](https://www.browserling.com/)** to ensure functionality across a variety of web browsers. It has been confirmed to work on the following browsers:
+
+- ✅ Chrome
+- ✅ Safari
+- ✅ Opera
+- ✅ Firefox
+- ✅ Brave
+- ✅ Edge
+
+
 ### Responsiveness
 
 ### Pagespeed Insights
