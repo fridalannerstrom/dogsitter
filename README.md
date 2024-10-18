@@ -328,7 +328,11 @@ Here are some ideas for expanding the website in future development phases.
 This project is built using [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/CSS).
 
 ## Libraries
-Reference external libraries or tools used in the project (Font Awesome, Google Fonts).
+- **[Google Fonts](https://fonts.google.com/)**  
+  Used for the fonts *Work Sans* and *Lora*.
+
+- **[Font Awesome](https://fontawesome.com/)**  
+  Used for icons.
 
 ## Development Tools
 Note the tools used during development (Git, GitHub, GitHub Pages, Gitpod).
