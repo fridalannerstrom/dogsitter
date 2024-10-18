@@ -423,9 +423,13 @@ There are some performance issues across all pages, some of them are due to the 
 | **As a dog owner,** I want to feel confident that my dog is in safe hands, so I can relax knowing they are well cared for while I'm away. | *Homepage > About* | ![About Page](assets/images/documentation/us-about.png) | 
 
 ### Bugs
-Detail any bugs encountered during development, how they were resolved, and unresolved bugs (contrast issues, H3 before H2, aria-label missing).
+A more detailed description of all bugs encountered during the project can be found in the **[Issues Tab](https://github.com/fridalannerstrom/dogsitter/issues)** on GitHub. I wanted to familiarize myself with this feature early on, so I logged bugs there. In the Issues tab, you can find a complete breakdown of each bug, including how I identified and resolved them.
 
-Bugs in issues!
+**Below is a quick summary of the bugs I encountered and their solutions**
+
+| Bug       | Solution  | Screenshot | 
+| --------- | --------- | ---------- | 
+| Bug       | Solution  | Screenshot | 
 
 ### Unfixed Bugs
 
