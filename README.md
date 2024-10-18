@@ -360,7 +360,7 @@ All bugs discovered during the course of this project are reported in the Issues
 
 ### Code validation
 
-I have validated my HTML code using **[HTML W3C Validator](https://validator.w3.org/)**  
+I have validated my HTML code using **[HTML W3C Validator](https://validator.w3.org/)** and CSS code using **[CSS Jigsaw Validator](https://validator.w3.org/)**
 
 #### HTML
 
@@ -375,6 +375,10 @@ I have validated my HTML code using **[HTML W3C Validator](https://validator.w3.
 | 404       | ✅ Pass | ![404-w3](assets/images/documentation/404-w3.png) | 
 
 #### CSS
+
+| File      | Status   | Screenshot | 
+| --------- | -------- | ---------- | 
+| style.css  | ✅ Pass | ![CSS Validation](assets/images/documentation/css-sunne-dogcare.png) | 
 
 ### Browser Compatibility
 
