@@ -588,12 +588,9 @@ main {
     }
     
     .intro-text p {
-        font-weight: 400;
         font-size: 0.9rem;
-        text-align: center;
         line-height: 1.3rem;
     }
-
 }
 
 @media screen and (min-width: 576px) {
