@@ -233,16 +233,16 @@ The website consists of a total of <strong>7 pages</strong> using one of three t
 
 | Device | Description | Screenshot |
 | ------ | ----------- | ---------- | 
-| **Desktop** | Full navigation menu with all links visible | ![Navigation Desktop](assets/images/navigation-desktop.webp) | 
-| **Mobile** | Collapsed navigation, icon for dropdown  | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
-| **Mobile Dropdown** | Expanded dropdown with all links visible, right-aligned to facilitate thumb navigation on small screens | ![Navigation Dropdown](assets/images/navigation-dropdown.webp) | 
+| **Desktop** | Full navigation menu with all links visible, including a header notice to highlight important messages | ![Navigation Desktop](assets/images/navigation-desktop.webp) | 
+| **Mobile** | Collapsed navigation, icon for dropdown, header notice still visable  | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
+| **Mobile Dropdown** | Expanded dropdown below header notice with all links visible, right-aligned to facilitate thumb navigation | ![Navigation Dropdown](assets/images/navigation-dropdown.webp) | 
 
 #### Footer
 
 | Device | Description | Screenshot |
 | ------ | ----------- | ---------- | 
-| **Desktop** | Footer with contact information displayed side by side | ![Footer Desktop](assets/images/footer-desktop.webp) | 
-| **Mobile** | Footer with contact information stacked vertically for better readability | ![Footer Mobile](assets/images/footer-mobile.webp) | 
+| **Desktop** | Footer with contact information displayed side by side, navigation and social links | ![Footer Desktop](assets/images/footer-desktop.webp) | 
+| **Mobile** | Footer with contact information stacked vertically for better readability, navigation and social links  | ![Footer Mobile](assets/images/footer-mobile.webp) | 
 
 ## Key Features
 Highlight the core features that were implemented and why they are important for the user and business goals (services, booking form, gallery).
