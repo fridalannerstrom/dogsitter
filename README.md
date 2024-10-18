@@ -213,6 +213,21 @@ The final mockups for the UI were created using [Adobe XD](https://adobexdplatfo
 
 # Features
 
+The website consists of a total of <strong>7 pages</strong> using one of three types of page layouts; *homepage, subpage* or *notification page.* 
+
+The website is composed of <strong>7 pages</strong>, each utilizing one of three distinct page layouts: *homepage, subpage* or *notification page.* 
+
+| Page | Purpose | Layout | Printscreen |
+| ---- | ------- | ------ | ----------- |
+| **Index** | Main landing page | Homepage | ![Index Layout](assets/images/homepage.webp) | 
+| **Services** | Information about services  | Subpage | ![Services Layout](assets/images/servives.webp) | 
+| **Gallery** | Display of dog-related images | Subpage | ![Gallery Layout](assets/images/gallery.webp) | 
+| **About** | Information about the business | Subpage | ![About Layout](assets/images/about.webp) | 
+| **Contact & Booking** | Contact form for inquiries | Subpage | ![Contact Layout](assets/images/contact.webp) | 
+| **Thank you** | Confirmation after form submit | Notification Page | ![Thank You Layout](assets/images/thankyou.webp) | 
+| **404** | Error message for wrong pages | Notification Page | ![404 Layout](assets/images/404.webp) | 
+
+
 ## Page Elements
 Brief explanation of the main elements used on the pages (e.g., header, navigation, footer).
 
