@@ -513,7 +513,7 @@ main {
 #footer-copyright {
     background-color: #0E2310;
     text-align: center;
-    height: 35px;
+    height: fit-content;
     padding: 5px;
     font-size: 0.6rem;
 }
@@ -521,6 +521,7 @@ main {
 #footer-copyright p {
     font-size: 0.8rem;
     color: #80A184;
+    margin: 0px;
 }
 
 #footer-copyright i {
