@@ -561,7 +561,40 @@ main {
 
 /* MEDIA QUERY */
 
-/* Extra small screens */
+/* Styling for extra small screens */
+
+@media screen and (max-width: 300px) {
+
+    .basic-section {
+        padding: 50px 20px;
+    }
+
+    .service {
+        padding: 20px;
+    }
+
+    .cta-content {
+    margin: 0px 20px;
+    padding: 40px 20px;
+    }
+
+    #header-notice p {
+    font-size: 11px;
+    }
+
+    .intro-text {
+        background-color: #FFF8E4;
+        padding: 30px 20px 10px;
+    }
+    
+    .intro-text p {
+        font-weight: 400;
+        font-size: 0.9rem;
+        text-align: center;
+        line-height: 1.3rem;
+    }
+
+}
 
 @media screen and (min-width: 576px) {
 
