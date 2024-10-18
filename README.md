@@ -355,14 +355,28 @@ This project is built using [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS]
 
 ## Testing
 
-### Test Methods
-HTML/CSS validator, link checker, test browsers, test responsiveness, pageview insights, user stories.
+### Code validation
+
+#### HTML
+
+#### CSS
+
+### Browser Compatibility
+
+### Responsiveness
+
+### Pagespeed Insights
+
+### User Story Testing
 
 ### Bugs
 Detail any bugs encountered during development, how they were resolved, and unresolved bugs (contrast issues, H3 before H2, aria-label missing).
 
-### Features
-contact form removal for simpler contact, list in about section to showcase myself more, contact information in contact page. 
+Bugs in issues!
+
+### Unfixed Bugs
+
+None that I know of...
 
 ---
 
