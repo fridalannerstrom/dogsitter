@@ -324,6 +324,8 @@ Here are some ideas for expanding the website in future development phases.
 
 5. **Online payment integration:** Enable users to complete payments directly through the website during the booking process, offering a seamless and convenient checkout experience.
 
+6. **Booking calendar for new clients:** Allowing new clients to schedule an initial one-hour meeting. This meeting gives new dog owners the chance to meet me, interact with my dogs, and get a sense of how the service operates.
+
 ---
 
 # Tools and Technologies
