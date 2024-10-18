@@ -268,8 +268,38 @@ The notification page does not include a hero section; instead, you are presente
 | ------- | ----------- | ------ | ------- |
 | **Main Section** | Heading, paragraph and button to homepage. Image to make the design more visually engaging | ![Thank You Mobile](assets/images/documentation/thankyou-mobile.png) | ![Thank You Desktop](assets/images/documentation/thankyou-desktop.png) | 
 
-
 ## Key Features
+
+### Services 
+
+| Section | Description | Mobile | Desktop |
+| ------- | ----------- | ------ | ------- |
+| **Services** | Section describing our 3 services, including a title, descriptive subtitle, description, price, and a list of key details such as drop-off/pick-up, activities, meals, and location. | ![Services Mobile](assets/images/documentation/services-page-mobile.png) | ![Services Desktop](assets/images/documentation/services-page-desktop.png) | 
+| **FAQ** | Frequently asked questions and answers, especially relevant for those booking for the first time. | ![FAQ Mobile](assets/images/documentation/faq-mobile.png) | ![FAQ Desktop](assets/images/documentation/faq-desktop.png) | 
+
+### Gallery 
+
+| Section | Description | Mobile | Tablet | Desktop |
+| ------- | ----------- | ------ | ------ | ------- |
+| **Gallery** | Hero section with a CTA button leading to the booking page. | ![Hero mobile](assets/images/documentation/hero-section-mobile.png) | ![Hero Desktop](assets/images/documentation/hero-image.png) | 
+
+### About
+
+| Section | Description | Mobile | Desktop |
+| ------- | ----------- | ------ | ------- | 
+| **About Dogsitter** | Hero section with a CTA button leading to the booking page. | ![Hero mobile](assets/images/documentation/hero-section-mobile.png) | ![Hero Desktop](assets/images/documentation/hero-image.png) | 
+| **About Dogs/Farm** | Hero section with a CTA button leading to the booking page. | ![Hero mobile](assets/images/documentation/hero-section-mobile.png) | ![Hero Desktop](assets/images/documentation/hero-image.png) | 
+
+### Contact/Bookings
+
+| Section | Description | Mobile | Desktop |
+| ------- | ----------- | ------ | ------- | 
+| **Booking form** | Hero section with a CTA button leading to the booking page. | ![Hero mobile](assets/images/documentation/hero-section-mobile.png) | ![Hero Desktop](assets/images/documentation/hero-image.png) | 
+
+
+
+
+
 
 - Services page; services
 - Gallery, with column width
