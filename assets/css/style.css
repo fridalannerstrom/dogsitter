@@ -244,11 +244,13 @@ header {
 }
 
 .menu .active {
-    color: #6F8472;
+    color: #304B33;
+    text-decoration: underline;
 }
 
 #footer-navigation .active {
-    color: #919F93;
+    color: #ceddd1;
+    text-decoration: underline;
 }
 
 /* Dropdown toggle navigation styling */
