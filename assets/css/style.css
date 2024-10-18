@@ -307,7 +307,8 @@ main {
 /* Hero Section */
 
 #hero-section {
-    background: url('../images/dog.webp') no-repeat bottom center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(20, 85, 4, 0)),
+    url('../images/dog.webp') no-repeat bottom center/cover;
     height: 90vh;
     min-height: 600px;
     max-height: 800px;
