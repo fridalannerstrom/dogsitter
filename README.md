@@ -325,7 +325,7 @@ Here are some ideas for expanding the website in future development phases.
 # Tools and Technologies
 
 ## Languages
-List the programming languages used for the project (only HTML, CSS).
+This project is built using [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/CSS).
 
 ## Libraries
 Reference external libraries or tools used in the project (Font Awesome, Google Fonts).
