@@ -88,7 +88,7 @@ The goal of Sunne Dogcare is to offer a warm, welcoming, and trustworthy dog-sit
 8. **As a dog owner,** I want to feel confident that my dog is in safe hands, so I can relax knowing they are well cared for while I'm away.
 
 ## Wireframes
-Wireframes were created using Adobe XD, with a strong focus on the user goals, business goals, and user stories. These wireframes serve as the foundation for the design and structure of the website.
+Wireframes were created using [Adobe XD](https://adobexdplatform.com/), with a strong focus on the user goals, business goals, and user stories. These wireframes serve as the foundation for the design and structure of the website.
 
 <details>
   <summary>📱 Click to view Mobile Wireframes</summary>
@@ -187,6 +187,7 @@ Additionally, some background images are used with a subtle green overlay.
 
 ## UI/UX Design
 
+The final mockups for the UI were created using [Adobe XD](https://adobexdplatform.com/). The design focuses on a clean and light aesthetic with a clear information hierarchy. Call-to-Actions (CTAs) are designed to be noticeable, encouraging interaction. The overall design aims to provide an intuitive and positive experience for the users.
 
 <details>
   <summary>📱 Click to view Mobile UI</summary>
