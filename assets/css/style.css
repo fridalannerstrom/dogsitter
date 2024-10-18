@@ -123,8 +123,6 @@ button:hover,
 .cta-content {
     margin: 0px 40px;
     border-radius: 10px;
-    background: linear-gradient(rgba(19, 35, 20, 0.9), rgba(19, 35, 20, 0.6)),
-    url('../images/dog11.webp') no-repeat center center/cover;
     color: white;
     padding: 50px;
     text-align: center;
@@ -136,11 +134,8 @@ button:hover,
 }
 
 #cta-services {
-    background: url('../images/services-cta-background.webp') no-repeat center center/cover;
-}
-
-#FAQ-form {
-    background: url('../images/faq-cta-background.webp') no-repeat center center/cover;
+    background: linear-gradient(rgba(19, 35, 20, 0.9), rgba(19, 35, 20, 0.6)),
+    url('../images/dog7.webp') no-repeat center center/cover;
 }
 
 form {
@@ -448,11 +443,12 @@ main {
 /* Contact section */
 
 #hero-section-contact {
-    background: url('../images/background-mobile-contact.webp') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
+    url('../images/background-mobile-contact.webp') no-repeat center center/cover;
 }
 
 #booking-form-background {
-    background: linear-gradient(rgba(19, 35, 20, 0.9), rgba(19, 35, 20, 0.6)),
+    background: linear-gradient(rgba(19, 35, 20, 0.4), rgba(19, 35, 20, 0.4)),
     url('../images/booking-cta-background.webp') no-repeat center center/cover;
 }
 
@@ -561,7 +557,8 @@ main {
     /* General styling */
 
     .booking-cta-container {
-        background: url('../images/cta-background-desktop.webp') no-repeat top center/cover;
+        background: linear-gradient(rgba(19, 35, 20, 0.9), rgba(19, 35, 20, 0.6)),
+        url('../images/dog11.webp') no-repeat center center/cover;
     }
 
     .boxed-content {
@@ -706,7 +703,8 @@ main {
     /* contact */
 
     #hero-section-contact {
-        background: url('../images/background-desktop-contact.webp') no-repeat center center/cover;
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
+        url('../images/background-desktop-contact.webp') no-repeat center center/cover;
     }
 
 
