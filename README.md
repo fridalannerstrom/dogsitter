@@ -278,6 +278,7 @@ The notification page does not include a hero section; instead, you are presente
 | Section | Description | Mobile | Desktop |
 | ------- | ----------- | ------ | ------- |
 | **Services** | Section describing our 3 services, including a title, descriptive subtitle, description, price, and a list of key details such as drop-off/pick-up, activities, meals, and location. | ![Services Mobile](assets/images/documentation/services-page-mobile.png) | ![Services Desktop](assets/images/documentation/services-page-desktop.png) | 
+| **CTA** | The Services page includes a dedicated CTA box that directs users straight to the booking page. | ![CTA Servoce Mobile](assets/images/documentation/cta-section-service-mobile.png) | ![CTA Service Desktop](assets/images/documentation/cta-section-service.png) | 
 | **FAQ** | Frequently asked questions and answers, especially relevant for those booking for the first time. | ![FAQ Mobile](assets/images/documentation/faq-mobile.png) | ![FAQ Desktop](assets/images/documentation/faq-desktop.png) | 
 
 ### Gallery 
@@ -355,9 +356,23 @@ This project is built using [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS]
 
 ## Testing
 
+All bugs discovered during the course of this project are reported in the Issues tab on GitHub. I wanted to get a head start on using this feature, so I decided to test it out right away! 🤓
+
 ### Code validation
 
+I have validated my HTML code using **[HTML W3C Validator](https://validator.w3.org/)**  
+
 #### HTML
+
+| Page      | Status   | Screenshot | 
+| --------- | -------- | ---------- | 
+| Homepage  | ✅ Pass | ![Home-w3](assets/images/documentation/index-w3.png) | 
+| Services  | ✅ Pass | ![Services-w3](assets/images/documentation/services-w3.png) | 
+| Gallery   | ✅ Pass | ![Gallery-w3](assets/images/documentation/gallery-w3.png) | 
+| About     | ✅ Pass | ![About-w3](assets/images/documentation/about-w3.png) | 
+| Contact   | ✅ Pass | ![Contact-w3](assets/images/documentation/contact-w3.png) | 
+| Thank you | ✅ Pass | ![Thankyou-w3](assets/images/documentation/thankyou-w3.png) | 
+| 404       | ✅ Pass | ![404-w3](assets/images/documentation/404-w3.png) | 
 
 #### CSS
 
