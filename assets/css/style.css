@@ -95,7 +95,7 @@ button:hover,
 }
 
 .intro-text {
-    background-color: #F9F5F2;
+    background-color: #FFF8E4;
     padding: 40px 40px 30px;
 }
 
@@ -354,7 +354,7 @@ main {
 }
 
 .service {
-    background-color: #F9F5F2;
+    background-color: #FFF8E4;
     padding: 40px;
     border-radius: 10px;
     margin-top: 20px;
@@ -382,7 +382,7 @@ main {
 }
 
 .service-list-item {
-    background-color: #F9F5F2;
+    background-color: #FFF8E4;
     border-radius: 10px;
     padding: 15px;
     margin-bottom: 10px;
@@ -632,7 +632,7 @@ main {
     }
 
     .service-list-item {
-        background-color: #F9F5F2;
+        background-color: #FFF8E4;
         border-radius: 10px;
         padding: 15px;
         margin-bottom: 10px;
