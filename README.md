@@ -241,8 +241,8 @@ The website consists of a total of <strong>7 pages</strong> using one of three t
 
 | Device | Description | Screenshot |
 | ------ | ----------- | ---------- | 
-| **Desktop** | Footer with contact information displayed side by side | ![Navigation Desktop](assets/images/footer-desktop.webp) | 
-| **Mobile** | Footer with contact information stacked vertically for better readability | ![Navigation Mobile](assets/images/footer-mobile.webp) | 
+| **Desktop** | Footer with contact information displayed side by side | ![Footer Desktop](assets/images/footer-desktop.webp) | 
+| **Mobile** | Footer with contact information stacked vertically for better readability | ![Footer Mobile](assets/images/footer-mobile.webp) | 
 
 ## Key Features
 Highlight the core features that were implemented and why they are important for the user and business goals (services, booking form, gallery).
