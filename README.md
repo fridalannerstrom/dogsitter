@@ -215,8 +215,6 @@ The final mockups for the UI were created using [Adobe XD](https://adobexdplatfo
 
 The website consists of a total of <strong>7 pages</strong> using one of three types of page layouts; *homepage, subpage* or *notification page.* 
 
-The website is composed of <strong>7 pages</strong>, each utilizing one of three distinct page layouts: *homepage, subpage* or *notification page.* 
-
 | Page | Purpose | Layout | Printscreen |
 | ---- | ------- | ------ | ----------- |
 | **Index** | Main landing page | Homepage | ![Index Layout](assets/images/homepage.webp) | 
