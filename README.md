@@ -3,9 +3,11 @@
 
 ![Logotype](assets/images/documentation/logotype.png)
 
-[Sunne Dogcare](https://fridalannerstrom.github.io/dogsitter/) is a website designed for a local dog-sitting service based in Sunne, Sweden. The purpose of this project is to provide a professional and user-friendly platform for the business, allowing potential clients to easily explore the available services, get to know the dog sitter, and contact the owner for bookings or inquiries.
+[Sunne Dogcare](https://fridalannerstrom.github.io/dogsitter/) is a website created for my growing dog-sitting service in Sunne, Sweden. As the demand for dog-sitting has continued to increase, I decided to turn my passion into a business, and this project was the perfect opportunity to get started on a website for my dog care service.
 
-The website is designed with a modern, clean aesthetic to present Sunne Dogcare as a professional and trustworthy service. It combines this with a personal touch, using plenty of images and warm visuals to give potential clients a sense of familiarity and trust. It aims to showcase the reliability and trustworthiness of Sunne Dogcare, while also offering all necessary information for dog owners who seek safe and enjoyable care for their pets.  The design follows best practices in web development, offering seamless navigation, readability, and accessibility across all devices.
+The goal of the site is to provide potential clients with an easy way to explore the services I offer, get to know me and my dogs, and contact me directly for bookings or questions. I wanted the website to reflect the personal touch I bring to my business, so I chose photos and a warm, inviting design to make dog owners feel comfortable and confident when they leave their pets in my care.
+
+Sunne Dogcare is presented with a modern yet friendly aesthetic, focusing on trust and reliability, while also making sure all necessary information is easily accessible. The site is built with best practices in mind, ensuring smooth navigation, readability, and accessibility across all devices—so that no matter where or how clients browse, they’ll have a great experience.
 
 # Table of content
 
