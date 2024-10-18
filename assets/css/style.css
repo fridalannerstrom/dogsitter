@@ -29,7 +29,6 @@ body {
     margin-top: 20px;
 }
 
-
 p {
     line-height: 1.5rem;
     font-size: 0.9rem;
@@ -492,7 +491,8 @@ main {
 }
 
 #footer-container img {
-    width: 250px;
+    max-width: 250px;
+    width: 100%;
 }
 
 #footer-navigation {
