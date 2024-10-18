@@ -244,6 +244,16 @@ The website consists of a total of <strong>7 pages</strong> using one of three t
 | **Desktop** | Footer with contact information displayed side by side, navigation and social links | ![Footer Desktop](assets/images/footer-desktop.webp) | 
 | **Mobile** | Footer with contact information stacked vertically for better readability, navigation and social links  | ![Footer Mobile](assets/images/footer-mobile.webp) | 
 
+### Index
+
+| Section | Description | Desktop | Tablet | Mobile |
+| ------- | ----------- | ------- | ------ | ------ |
+| **Hero Section** | Hero section with a CTA button leading to the booking page. | ![Navigation Desktop](assets/images/navigation-desktop.webp) | - | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
+| **About Me Section** | Section introducing the dog sitter.  | ![Navigation Mobile](assets/images/navigation-mobile.webp) | - | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
+| **Services Section** | Section describing the services offered. | ![Navigation Dropdown](assets/images/navigation-dropdown.webp) | - | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
+| **Gallery Section** | Photo gallery showcasing images of dogs. | ![Navigation Dropdown](assets/images/navigation-dropdown.webp) | ![Navigation Mobile](assets/images/navigation-mobile.webp) | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
+| **CTA Box** | Call-to-action box with a link to the services page. | ![Navigation Dropdown](assets/images/navigation-dropdown.webp) | - | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
+
 ## Key Features
 Highlight the core features that were implemented and why they are important for the user and business goals (services, booking form, gallery).
 
