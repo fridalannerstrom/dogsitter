@@ -215,7 +215,7 @@ The final mockups for the UI were created using [Adobe XD](https://adobexdplatfo
 
 The website consists of a total of <strong>7 pages</strong> using one of three types of page layouts; *homepage, subpage* or *notification page.* 
 
-| Page | Purpose | Layout | Printscreen |
+| Page | Purpose | Layout | Screenshot |
 | ---- | ------- | ------ | ----------- |
 | **Index** | Main landing page | Homepage | ![Index Layout](assets/images/homepage.webp) | 
 | **Services** | Information about services  | Subpage | ![Services Layout](assets/images/services.webp) | 
@@ -225,9 +225,24 @@ The website consists of a total of <strong>7 pages</strong> using one of three t
 | **Thank you** | Confirmation after form submit | Notification Page | ![Thank You Layout](assets/images/thankyou.webp) | 
 | **404** | Error message for wrong pages | Notification Page | ![404 Layout](assets/images/404.webp) | 
 
-
 ## Page Elements
-Brief explanation of the main elements used on the pages (e.g., header, navigation, footer).
+
+### All pages
+
+#### Navigation 
+
+| Device | Description | Screenshot |
+| ------ | ----------- | ---------- | 
+| **Desktop** | Full navigation menu with all links visible | ![Navigation Desktop](assets/images/navigation-desktop.webp) | 
+| **Mobile** | Collapsed navigation, icon for dropdown  | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
+| **Mobile Dropdown** | Expanded dropdown with all links visible, right-aligned to facilitate thumb navigation on small screens | ![Navigation Dropdown](assets/images/navigation-dropdown.webp) | 
+
+#### Footer
+
+| Device | Description | Screenshot |
+| ------ | ----------- | ---------- | 
+| **Desktop** | Footer with contact information displayed side by side | ![Navigation Desktop](assets/images/footer-desktop.webp) | 
+| **Mobile** | Footer with contact information stacked vertically for better readability | ![Navigation Mobile](assets/images/footer-mobile.webp) | 
 
 ## Key Features
 Highlight the core features that were implemented and why they are important for the user and business goals (services, booking form, gallery).
