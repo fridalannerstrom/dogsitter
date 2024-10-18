@@ -429,9 +429,15 @@ A more detailed description of all bugs encountered during the project can be fo
 
 **Below is a quick summary of the bugs I encountered and their solutions**
 
-| Bug       | Solution  | Screenshot | 
-| --------- | --------- | ---------- | 
-| Bug       | Solution  | Screenshot | 
+| Bug       | Screenshot | Description | Solution  |
+| --------- | --------- | ---------- | ---------- | 
+| Contrast Issue | ![Contrast in navigation](assets/images/documentation/low-contrast.png) | Low contrast on the active navigation link in the header resulted in poor accessibility. Found by testing site in [WAVE](https://wave.webaim.org/). | Improved accessibility by changing the active link color to a darker green and adding an underline. | 
+| Contrast Issue | ![Contrast in topic tag](assets/images/documentation/contrast-issue-2.png) | Low contrast on the topic tag caused poor accessibility, making the text hard to read, especially for users with visual impairments. Found by testing site in [WAVE](https://wave.webaim.org/). | Changed the tag’s background color to a darker green. | 
+| Contrast Issue | ![Contrast in CTA box](assets/images/documentation/background-issue.png) | Low contrast between white text and image background when testing site in [WAVE](https://wave.webaim.org/). | Applied a dark overlay with CSS instead of manually darkening the background in Photoshop, improving text visibility and accessibility. | 
+| Responsive Issue | ![Form bugg on small screens](assets/images/documentation/booking-form-small-screen.png) | The booking form displayed incorrectly on smaller screens, losing padding and causing a horizontal scroll due to oversized input fields. | Added responsive CSS for smaller screens, reducing padding and font size for form inputs. Also adjusted padding on the form container for better layout on mobile devices. | 
+| Responsive Issue | ![CTA bugg on small screens](assets/images/documentation/button-bugg.png) | The CTA button was getting cut off on smaller screens, resulting in awkward line breaks and poor user experience. | Reduced the button size and adjusted padding within the CTA box for smaller screens to prevent the cutoff and ensure proper alignment. | 
+| Responsive Issue | ![Overflow issue on small screens](assets/images/documentation/footer-bugg.png) | On screens smaller than 350px, the body content shrank, but an overflow issue caused the content to not align properly on the right side. | Identified the footer logo as the cause. Applied a max-width and width:100% to correct this. | 
+
 
 ### Other testing
 
