@@ -433,9 +433,15 @@ A more detailed description of all bugs encountered during the project can be fo
 | --------- | --------- | ---------- | 
 | Bug       | Solution  | Screenshot | 
 
+### Other testing
+
+| Test       | Notes  | Screenshot | 
+| ---------- | ------ | ---------- | 
+| **Form submission testing**       | Tested the booking form with method="POST" and sent correct data. Changed it to a thank you page later on.  | ![Form Submission](assets/images/documentation/form-submission.png) | 
+
 ### Unfixed Bugs
 
-None that I know of...
+None that I know of - feel free to tell me if you find any!
 
 ---
 
