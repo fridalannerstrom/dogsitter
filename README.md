@@ -125,9 +125,7 @@ The design, fonts, and media are all focused on creating a warm, trustworthy fee
 
 Together, these colors create a balanced and professional look, enhancing the user experience without overwhelming the content.
 
-<p style="text-align: center;">
-  <img src="assets/images/colors.webp" width="600px">
-</p>
+ ![Colors](assets/images/documentation/colors.png)
 
 ### Fonts
 
@@ -146,28 +144,20 @@ By combining a serif and a sans-serif font, the design achieves a balanced look 
 - **Links** are underlined in green with arrow icon.
 - **CTA Buttons** come in two styles: Light, with white background and black text, and Dark, with green background and white text. Both light and dark have the same hover style.
 
-<p style="text-align: center;">
-<img src="assets/images/fonts.webp" width="600px">
-</p>
+ ![Fonts](assets/images/documentation/fonts.png)
 
-<p style="text-align: center;">
-<img src="assets/images/heading-text-buttons.webp" width="600px">
-</p>
+ ![Headings, text and buttons](assets/images/documentation/heading-text-buttons.png)
 
 ### Logotype
 The logo for Sunne Dogcare uses the font [Hot Mess by Sam Parrett](https://www.behance.net/gallery/79231099/Hot-Mess-SVG-Font). This slightly messy, handwritten font was chosen to create a contrast with the otherwise clean and polished design of the brand. The playful, informal style of the font reflects the more unpredictable and sometimes chaotic nature of dog-sitting, making it a fitting choice for the brand.
 
-<p style="text-align: center;">
-<img src="assets/images/logotype.webp" width="600px">
-</p>
+ ![Logotype](assets/images/documentation/logotype.png)
 
 ### Icons
 
 The icons used throughout the design are from [Font Awesome](https://fontawesome.com/) in the bold solid style. Icons are an important part of the branding, as they help convey messages in a simpler and more visual way. The icons chosen are closely associated with dogs and nature, such as a bone, paw print, and forest.
 
-<p style="text-align: center;">
-<img src="assets/images/icons.webp" width="300px">
-</p>
+ ![Icons](assets/images/documentation/icons.png)
 
 ### Media
 
@@ -175,15 +165,11 @@ The images used on the site will focus on dogs highlighting themes of nature, fo
 
 The images are sourced from [Unsplash](https://unsplash.com/) via an Unsplash+ subscription.
 
-<p style="text-align: center;">
-<img src="assets/images/photos.webp" width="600px">
-</p>
+ ![Media](assets/images/documentation/photos.png)
 
 Additionally, some background images are used with a subtle green overlay.
 
-<p style="text-align: center;">
-<img src="assets/images/brand-background.webp" width="600px">
-</p>
+ ![Background with overlay](assets/images/documentation/green-background.png)
 
 ## UI/UX Design
 
@@ -191,20 +177,26 @@ The final mockups for the UI were created using [Adobe XD](https://adobexdplatfo
 
 <details>
   <summary>📱 Click to view Mobile UI</summary>
-  <img src="assets/images/ui-mobile-1.webp" width="100%">
-  <img src="assets/images/ui-mobile-2.webp" width="100%">
+
+ ![UI Mobile 1](assets/images/documentation/uimobile-1.png)
+ ![UI Mobile 2](assets/images/documentation/uimobile-2.png)
+
 </details>
 
 <details>
   <summary>💻 Click to view Tablet UI</summary>
-  <img src="assets/images/ui-tablet-1.webp" width="100%">
-  <img src="assets/images/ui-tablet-2.webp" width="100%">
+
+ ![UI Tablet 1](assets/images/documentation/uitablet-1.png)
+ ![UI Tablet 2](assets/images/documentation/uitablet-2.png)
+
 </details>
 
 <details>
   <summary>🖥️ Click to view Desktop Wireframes</summary>
-  <img src="assets/images/ui-desktop-1.webp" width="100%">
-  <img src="assets/images/ui-desktop-2.webp" width="100%">
+
+ ![UI Desktop 1](assets/images/documentation/ui-desktop-1.png)
+ ![UI Desktop 2](assets/images/documentation/ui-desktop-2.png)
+
 </details>
 
 
