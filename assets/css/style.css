@@ -311,7 +311,7 @@ header {
 
 main {
     /* makes main content take up space and push footer down */
-    flex: 1 0 auto;
+    flex: 1 1 auto;
     margin-top: 90px;
 }
 
