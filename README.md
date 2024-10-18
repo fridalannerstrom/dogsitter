@@ -190,36 +190,38 @@ Additionally, some background images are used with a subtle green overlay.
 
 <details>
   <summary>📱 Click to view Mobile UI</summary>
-  <img src="assets/images/UI-mobile-1.webp" width="100%">
-  <img src="assets/images/UI-mobile-2.webp" width="100%">
+  <img src="assets/images/ui-mobile-1.webp" width="100%">
+  <img src="assets/images/ui-mobile-2.webp" width="100%">
 </details>
 
 <details>
   <summary>💻 Click to view Tablet UI</summary>
-  <img src="assets/images/UI-tablet-1.webp" width="100%">
-  <img src="assets/images/UI-tablet-2.webp" width="100%">
+  <img src="assets/images/ui-tablet-1.webp" width="100%">
+  <img src="assets/images/ui-tablet-2.webp" width="100%">
 </details>
 
 <details>
   <summary>🖥️ Click to view Desktop Wireframes</summary>
-  <img src="assets/images/wireframes-desktop-1.webp" width="100%">
-  <img src="assets/images/wireframes-desktop-2.webp" width="100%">
+  <img src="assets/images/ui-desktop-1.webp" width="100%">
+  <img src="assets/images/ui-desktop-2.webp" width="100%">
 </details>
+
 
 ---
 
+
 # Features
 
-### Page Elements
+## Page Elements
 Brief explanation of the main elements used on the pages (e.g., header, navigation, footer).
 
-### Key Features
+## Key Features
 Highlight the core features that were implemented and why they are important for the user and business goals (services, booking form, gallery).
 
-### Feature Changes
+## Feature Changes
 Changes to the design; service page design with lighter box on desktop, list in about me page
 
-### Future Features
+## Future Features
 A list of potential features that could be implemented in future versions of the website (Availability Calendar, Review and Rating System, Live Chat for Customer Support).
 
 ---
