@@ -391,8 +391,9 @@ The website has been tested using **[Browserling](https://www.browserling.com/)*
 - ✅ Brave
 - ✅ Edge
 
-
 ### Responsiveness
+
+Throughout the project, I prioritized responsive design by continuously testing with Google Developer Tools. Each new feature was tested on both small and large screen sizes to ensure optimal performance. I followed a mobile-first approach, carefully considering both extra-large and extra-small screens. I tested all available screen sizes in Google Developer Tools, and the website displays correctly across all devices.
 
 ### Pagespeed Insights
 
