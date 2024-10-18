@@ -1,4 +1,4 @@
-![Logotype](assets/images/paw_play_logo_white.webp)
+![Logotype](assets/images/documentation/logotype.png)
 
 [Sunne Dogcare](https://fridalannerstrom.github.io/dogsitter/) is a website designed for a local dog-sitting service based in Sunne, Sweden. The purpose of this project is to provide a professional and user-friendly platform for the business, allowing potential clients to easily explore the available services, get to know the dog sitter, and contact the owner for bookings or inquiries.
 
@@ -67,7 +67,7 @@ The goal of Sunne Dogcare is to offer a warm, welcoming, and trustworthy dog-sit
 ### How Sunne Dogcare achieves these goals:
 
 | Feature | Description | Reinforces goal |
-| --------- | --------------------- | -------------- |
+| ------- | ----------- | --------------- |
 | **Personal touch:** | Introduce the dog-sitter right away with personal photos, also a personal about page introducing the farm and animals, and social media | *Build trust* and *Read about Sunne Dogcare* |
 | **Gallery of happy dogs:** | Showcase happy dogs in a gallery to highlight the positive environment | *Attract new customers* |
 | **Simplify services:** | Focus on just three clear, easy-to-book services to avoid overwhelming users | *Enable easy booking* and *Read about services* |
@@ -93,24 +93,24 @@ Wireframes were created using [Adobe XD](https://adobexdplatform.com/), with a s
 <details>
   <summary>📱 Click to view Mobile Wireframes</summary>
 
-  ![Mobile Wireframe 1](assets/images/wireframes-mobile-1.webp)
-  ![Mobile Wireframe 2](assets/images/wireframes-mobile-2.webp)
+  ![Mobile Wireframe 1](assets/images/documentation/wireframes-mobile-1.png)
+  ![Mobile Wireframe 2](assets/images/documentation/wireframes-mobile-2.png)
 
 </details>
 
 <details>
   <summary>💻 Click to view Tablet Wireframes</summary>
 
-  ![Tablet Wireframe 1](assets/images/wireframes-tablet-1.webp)
-  ![Tablet Wireframe 2](assets/images/wireframes-tablet-2.webp)
+  ![Tablet Wireframe 1](assets/images/documentation/wireframes-tablet-1.png)
+  ![Tablet Wireframe 2](assets/images/documentation/wireframes-tablet-2.png)
   
 </details>
 
 <details>
   <summary>🖥️ Click to view Desktop Wireframes</summary>
 
-  ![Desktop Wireframe 1](assets/images/wireframes-desktop-1.webp)
-  ![Desktop Wireframe 2](assets/images/wireframes-desktop-2.webp)
+  ![Desktop Wireframe 1](assets/images/documentation/wireframes-desktop-1.png)
+  ![Desktop Wireframe 2](assets/images/documentation/wireframes-desktop-2.png)
 
 </details>
 
@@ -217,13 +217,13 @@ The website consists of a total of <strong>7 pages</strong> using one of three t
 
 | Page | Purpose | Layout | Screenshot |
 | ---- | ------- | ------ | ----------- |
-| **Index** | Main landing page | Homepage | ![Index Layout](assets/images/homepage.webp) | 
-| **Services** | Information about services  | Subpage | ![Services Layout](assets/images/services.webp) | 
-| **Gallery** | Display of dog-related images | Subpage | ![Gallery Layout](assets/images/gallery.webp) | 
-| **About** | Information about the business | Subpage | ![About Layout](assets/images/about.webp) | 
-| **Contact & Booking** | Contact form for inquiries | Subpage | ![Contact Layout](assets/images/contact.webp) | 
-| **Thank you** | Confirmation after form submit | Notification Page | ![Thank You Layout](assets/images/thankyou.webp) | 
-| **404** | Error message for wrong pages | Notification Page | ![404 Layout](assets/images/404.webp) | 
+| **Index** | Main landing page | Homepage | ![Index Layout](assets/images/documentation/homepage.png) | 
+| **Services** | Information about services  | Subpage | ![Services Layout](assets/images/documentation/services.png) | 
+| **Gallery** | Display of dog-related images | Subpage | ![Gallery Layout](assets/images/documentation/gallery.png) | 
+| **About** | Information about the business | Subpage | ![About Layout](assets/images/documentation/about.png) | 
+| **Contact & Booking** | Contact form for inquiries | Subpage | ![Contact Layout](assets/images/documentation/contact.png) | 
+| **Thank you** | Confirmation after form submit | Notification Page | ![Thank You Layout](assets/images/documentation/thankyou.png) | 
+| **404** | Error message for wrong pages | Notification Page | ![404 Layout](assets/images/documentation/404.png) | 
 
 ## Page Elements
 
@@ -233,26 +233,26 @@ The website consists of a total of <strong>7 pages</strong> using one of three t
 
 | Device | Description | Screenshot |
 | ------ | ----------- | ---------- | 
-| **Desktop** | Full navigation menu with all links visible, including a header notice to highlight important messages | ![Navigation Desktop](assets/images/navigation-desktop.webp) | 
-| **Mobile** | Collapsed navigation, icon for dropdown, header notice still visable  | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
-| **Mobile Dropdown** | Expanded dropdown below header notice with all links visible, right-aligned to facilitate thumb navigation | ![Navigation Dropdown](assets/images/navigation-dropdown.webp) | 
+| **Desktop** | Full navigation menu with all links visible, including a header notice to highlight important messages | ![Navigation Desktop](assets/images/documentation/navigation-desktop.png) | 
+| **Mobile** | Collapsed navigation, icon for dropdown, header notice still visable  | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | 
+| **Mobile Dropdown** | Expanded dropdown below header notice with all links visible, right-aligned to facilitate thumb navigation | ![Navigation Dropdown](assets/images/documentation/navigation-dropdown.png) | 
 
 #### Footer
 
 | Device | Description | Screenshot |
 | ------ | ----------- | ---------- | 
-| **Desktop** | Footer with contact information displayed side by side, navigation and social links | ![Footer Desktop](assets/images/footer-desktop.webp) | 
-| **Mobile** | Footer with contact information stacked vertically for better readability, navigation and social links  | ![Footer Mobile](assets/images/footer-mobile.webp) | 
+| **Desktop** | Footer with contact information displayed side by side, navigation and social links | ![Footer Desktop](assets/images/documentation/footer-desktop.png) | 
+| **Mobile** | Footer with contact information stacked vertically for better readability, navigation and social links  | ![Footer Mobile](assets/images/documentation/footer-mobile.png) | 
 
 ### Index
 
 | Section | Description | Desktop | Tablet | Mobile |
 | ------- | ----------- | ------- | ------ | ------ |
-| **Hero Section** | Hero section with a CTA button leading to the booking page. | ![Navigation Desktop](assets/images/navigation-desktop.webp) | - | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
-| **About Me Section** | Section introducing the dog sitter.  | ![Navigation Mobile](assets/images/navigation-mobile.webp) | - | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
-| **Services Section** | Section describing the services offered. | ![Navigation Dropdown](assets/images/navigation-dropdown.webp) | - | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
-| **Gallery Section** | Photo gallery showcasing images of dogs. | ![Navigation Dropdown](assets/images/navigation-dropdown.webp) | ![Navigation Mobile](assets/images/navigation-mobile.webp) | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
-| **CTA Box** | Call-to-action box with a link to the services page. | ![Navigation Dropdown](assets/images/navigation-dropdown.webp) | - | ![Navigation Mobile](assets/images/navigation-mobile.webp) | 
+| **Hero Section** | Hero section with a CTA button leading to the booking page. | ![Navigation Desktop](assets/images/documentation/navigation-desktop.png) | - | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | 
+| **About Me Section** | Section introducing the dog sitter.  | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | - | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | 
+| **Services Section** | Section describing the services offered. | ![Navigation Dropdown](assets/images/documentation/navigation-dropdown.png) | - | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | 
+| **Gallery Section** | Photo gallery showcasing images of dogs. | ![Navigation Dropdown](assets/images/documentation/navigation-dropdown.png) | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | 
+| **CTA Box** | Call-to-action box with a link to the services page. | ![Navigation Dropdown](assets/images/documentation/navigation-dropdown.png) | - | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | 
 
 ## Key Features
 Highlight the core features that were implemented and why they are important for the user and business goals (services, booking form, gallery).
