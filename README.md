@@ -219,6 +219,8 @@ The website consists of a total of <strong>7 pages</strong> using one of three t
 
 ## Page Elements
 
+⚠️ The responsive design is implemented using flexbox with a primary breakpoint at 768px. However, certain sections have additional breakpoints, as described in more detail in this chapter.
+
 ### All pages
 
 #### Navigation 
@@ -238,16 +240,32 @@ The website consists of a total of <strong>7 pages</strong> using one of three t
 
 ### Index
 
-| Section | Description | Desktop | Tablet | Mobile |
-| ------- | ----------- | ------- | ------ | ------ |
-| **Hero Section** | Hero section with a CTA button leading to the booking page. | ![Navigation Desktop](assets/images/documentation/navigation-desktop.png) | - | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | 
-| **About Me Section** | Section introducing the dog sitter.  | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | - | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | 
-| **Services Section** | Section describing the services offered. | ![Navigation Dropdown](assets/images/documentation/navigation-dropdown.png) | - | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | 
-| **Gallery Section** | Photo gallery showcasing images of dogs. | ![Navigation Dropdown](assets/images/documentation/navigation-dropdown.png) | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | 
-| **CTA Box** | Call-to-action box with a link to the services page. | ![Navigation Dropdown](assets/images/documentation/navigation-dropdown.png) | - | ![Navigation Mobile](assets/images/documentation/navigation-mobile.png) | 
+The index page serves as the primary landing page for most visitors. Its main objective is to introduce Sunne Dogcare and immediately engage potential clients with a clear and inviting presentation. The page is designed to guide users seamlessly towards booking services, providing a welcoming first impression of the digsitter, services and gallery.
+
+| Section | Description | Mobile | Desktop |
+| ------- | ----------- | ------ | ------- |
+| **Hero Section** | Hero section with a CTA button leading to the booking page. | ![Hero mobile](assets/images/documentation/hero-section-mobile.png) | ![Hero Desktop](assets/images/documentation/hero-image.png) | 
+| **About Me Section** | Section introducing the dog sitter.  | ![About Mobile](assets/images/documentation/about-section-mobile.png) | ![About Desktop](assets/images/documentation/about-section.png) | 
+| **Services Section** | Section describing the services offered. | ![Services Mobile](assets/images/documentation/services-section-mobile.png) | ![Services Desktop](assets/images/documentation/services-section-desktop.png) | 
+| **Gallery Section** | Photo gallery showcasing images of dogs. | ![Gallery Mobile](assets/images/documentation/gallery-section-mobile.png) | ![Gallery Desktop](assets/images/documentation/gallery-section.png) | 
+| **CTA Box** | Call-to-action box with a link to the services page. | ![CTA Mobile](assets/images/documentation/cta-section-mobile.png) | ![CTA Desktop](assets/images/documentation/cta-section.png) | 
+
+### Subpage
+
+Each subpage follows a consistent layout with a hero section that includes a prominent heading and a descriptive topic tag. Below the hero section, each subpage contains a short description of the content. To guide users towards further action, a CTA box is included at all subpages.
+
+| Section | Description | Mobile | Desktop |
+| ------- | ----------- | ------ | ------- |
+| **Hero Section** | Hero section features a descriptive title and a clear topic tag | ![Hero Mobile Subpage](assets/images/documentation/subpage-hero-mobile.png) | ![Hero Desktop Subpage](assets/images/documentation/subpage-hero-desktop.png) | 
+| **Intro Section** | Introductory section with description of the page’s content | ![Intro Mobile Subpage](assets/images/documentation/subpage-intro-mobile.png) | ![Intro Desktop Subpage](assets/images/documentation/subpage-intro-desktop.png) | 
+| **CTA Box** | Call-to-action box with a link to the services page. | ![CTA Mobile Subpage](assets/images/documentation/cta-section-mobile.png) | ![CTA Desktop Subpage](assets/images/documentation/cta-section.png) | 
+
+### Notification Page
 
 ## Key Features
-Highlight the core features that were implemented and why they are important for the user and business goals (services, booking form, gallery).
+
+- Services page; services
+- Gallery, with column width
 
 ## Feature Changes
 Changes to the design; service page design with lighter box on desktop, list in about me page
