@@ -51,11 +51,11 @@ button,
 }
 
 button:hover,
-.button-light:hover, .button-dark:hover {
+.button-light:hover,
+.button-dark:hover {
     background-color: #919F93;
     color: white;
 }
-
 
 .button-dark {
     background-color: #304B33;
@@ -82,7 +82,6 @@ button:hover,
     margin: auto;
     max-width: 1200px;
 }
-
 
 .basic-image {
     max-width: 80vw;
@@ -134,7 +133,7 @@ button:hover,
 
 #cta-services {
     background: linear-gradient(rgba(19, 35, 20, 0.9), rgba(19, 35, 20, 0.6)),
-    url('../images/dog7.webp') no-repeat center center/cover;
+        url('../images/dog7.webp') no-repeat center center/cover;
 }
 
 form {
@@ -166,7 +165,7 @@ form label {
     margin-top: 20px;
     border-radius: 10px;
     background: linear-gradient(rgba(19, 35, 20, 0.9), rgba(19, 35, 20, 0.6)),
-    url('../images/dog11.webp') no-repeat center center/cover; 
+        url('../images/dog11.webp') no-repeat center center/cover;
     color: white;
     padding: 50px;
     text-align: center;
@@ -306,7 +305,7 @@ main {
 
 #hero-section {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(20, 85, 4, 0)),
-    url('../images/dog.webp') no-repeat bottom center/cover;
+        url('../images/dog.webp') no-repeat bottom center/cover;
     height: 90vh;
     min-height: 600px;
     max-height: 800px;
@@ -326,7 +325,7 @@ main {
 
 .hero-section-subpage {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(20, 85, 4, 0)),
-    url('../images/background-desktop-services.webp') no-repeat bottom center/cover;
+        url('../images/background-desktop-services.webp') no-repeat bottom center/cover;
     height: 300px;
     display: flex;
     justify-content: center;
@@ -343,7 +342,7 @@ main {
 
 #hero-section-about {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(20, 85, 4, 0)),
-    url('../images/background-mobile-about.webp') no-repeat center center/cover;
+        url('../images/background-mobile-about.webp') no-repeat center center/cover;
 }
 
 .about-me {
@@ -365,7 +364,7 @@ main {
 
 #hero-section-services {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(20, 85, 4, 0)),
-    url('../images/background-desktop-services.webp') no-repeat center center/cover;
+        url('../images/background-desktop-services.webp') no-repeat center center/cover;
 }
 
 .service {
@@ -427,7 +426,7 @@ main {
 
 #hero-section-gallery {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
-    url('../images/background-mobile-gallery.webp') no-repeat center center/cover;
+        url('../images/background-mobile-gallery.webp') no-repeat center center/cover;
 }
 
 #gallery img {
@@ -446,12 +445,12 @@ main {
 
 #hero-section-contact {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
-    url('../images/background-mobile-contact.webp') no-repeat center center/cover;
+        url('../images/background-mobile-contact.webp') no-repeat center center/cover;
 }
 
 #booking-form-background {
     background: linear-gradient(rgba(19, 35, 20, 0.4), rgba(19, 35, 20, 0.4)),
-    url('../images/booking-cta-background.webp') no-repeat center center/cover;
+        url('../images/booking-cta-background.webp') no-repeat center center/cover;
 }
 
 #form-date {
@@ -561,7 +560,7 @@ main {
 
     .booking-cta-container {
         background: linear-gradient(rgba(19, 35, 20, 0.9), rgba(19, 35, 20, 0.6)),
-        url('../images/dog11.webp') no-repeat center center/cover;
+            url('../images/dog11.webp') no-repeat center center/cover;
     }
 
     .boxed-content {
@@ -610,7 +609,7 @@ main {
 
     #hero-section {
         background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
-        url('../images/background-desktop-index.webp') no-repeat center center/cover;
+            url('../images/background-desktop-index.webp') no-repeat center center/cover;
         justify-content: left;
         align-items: center;
     }
@@ -666,7 +665,7 @@ main {
 
     #hero-section-about {
         background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
-        url('../images/background-desktop-about.webp') no-repeat top center/cover;
+            url('../images/background-desktop-about.webp') no-repeat top center/cover;
     }
 
     .about-container {
@@ -702,14 +701,14 @@ main {
 
     #hero-section-gallery {
         background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
-        url('../images/background-desktop-gallery.webp') no-repeat center center/cover;
+            url('../images/background-desktop-gallery.webp') no-repeat center center/cover;
     }
 
     /* Contact */
 
     #hero-section-contact {
         background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
-        url('../images/background-desktop-contact.webp') no-repeat center center/cover;
+            url('../images/background-desktop-contact.webp') no-repeat center center/cover;
     }
 
 
