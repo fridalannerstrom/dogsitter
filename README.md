@@ -353,8 +353,14 @@ This project is built using [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS]
 - **[Favicon Generator](https://www.favicon-generator.org/)**  
   Used for generating favicon versions.
 
-- **[Mockup Generator](https://techsini.com/multi-mockup/index.php)**  
-  Used for generating mockup image.
+- **[Google Developer Tools](https://developer.chrome.com/docs/devtools)**  
+  Used for testing and identifying my code
+
+- **[Browserling](https://www.browserling.com/)**  
+  Used for testing the website in different browsers
+
+- **[WAVE](https://wave.webaim.org/)**  
+  Used to test accessibility in design and website.
 
 ---
 
@@ -504,15 +510,17 @@ The project is deployed on GitHub Pages. To deploy your own version, follow thes
 | [Unsplash](https://unsplash.com/)  | Photos used throughout the website (except for my own) | 
 | [ChatGPT](https://chatgpt.com/)  | Assisted with content creation and providing English wording for the README documentation | 
 | [Hot Mess by Sam Parrett](https://www.behance.net/gallery/79231099/Hot-Mess-SVG-Font)  | A fantastic font used for branding my Dog Care busines | 
+| [Mockup Generator](https://techsini.com/multi-mockup/index.php)  | Used for generating mockup image in this README | 
 
 ### Other
 
 | Source      | Notes   | 
 | ----------- | ---------- | 
-| [CloudConvert](https://cloudconvert.com/) | Converted PNG images to WebP format for better performance | 
+| [CloudConvert](https://cloudconvert.com/) | Converted PNG images to WebP format | 
+| [Convertio](https://convertio.co/)  | Converted PNG images to WebP format | 
+| [Xconvert](https://www.xconvert.com/ )  | Resize and optimize webp images | 
 | [W3Schools ](https://www.w3schools.com/) | Helped refresh my memory on CSS attributes and syntax when needed | 
 | [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)  | Introduced me to a structured and meaningful way of writing commit messages, which I adopted halfway through the project | 
-
 
 ### Acknowledgements
 
