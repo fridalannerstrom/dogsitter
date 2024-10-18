@@ -139,6 +139,8 @@ p {
     color: white;
     padding: 50px;
     text-align: center;
+    background: linear-gradient(rgba(19, 35, 20, 0.9), rgba(19, 35, 20, 0.6)),
+    url('../images/dog7.webp') no-repeat center center/cover;
 }
 
 .cta-content p {
@@ -148,7 +150,7 @@ p {
 
 #cta-services {
     background: linear-gradient(rgba(19, 35, 20, 0.9), rgba(19, 35, 20, 0.6)),
-        url('../images/dog7.webp') no-repeat center center/cover;
+        url('../images/dog6.webp') no-repeat center center/cover;
 }
 
 /* Form */
