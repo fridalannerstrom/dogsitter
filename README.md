@@ -16,7 +16,8 @@ The website is designed with a modern, clean aesthetic to present Sunne Dogcare 
 2. [Features](#features)
    - [Page Elements](#page-elements)
    - [Key Features](#key-features)
-   - [Future Features](#additional-features)
+   - [Future Changes](#feature-changes)
+   - [Future Features](#future-features)
    
 3. [Tools and Technologies](#tools-and-technologies)
    - [Languages](#languages)
@@ -215,6 +216,9 @@ Brief explanation of the main elements used on the pages (e.g., header, navigati
 ### Key Features
 Highlight the core features that were implemented and why they are important for the user and business goals (services, booking form, gallery).
 
+### Feature Changes
+Changes to the design; service page design with lighter box on desktop, list in about me page
+
 ### Future Features
 A list of potential features that could be implemented in future versions of the website (Availability Calendar, Review and Rating System, Live Chat for Customer Support).
 
@@ -243,6 +247,9 @@ HTML/CSS validator, link checker, test browsers, test responsiveness, pageview i
 
 ### Bugs
 Detail any bugs encountered during development, how they were resolved, and unresolved bugs (contrast issues, H3 before H2, aria-label missing).
+
+### Features
+contact form removal for simpler contact, list in about section to showcase myself more, contact information in contact page. 
 
 ---
 
