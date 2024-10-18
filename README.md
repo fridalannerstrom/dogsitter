@@ -338,10 +338,18 @@ This project is built using [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS]
   Used for icons.
 
 ## Development Tools
-Note the tools used during development (Git, GitHub, GitHub Pages, Gitpod).
+- **[GitHub](https://github.com/)**  
+  Used for online code storing and deployment.
+
+- **[Gitpod](https://fontawesome.com/)**  
+  IDE used for development.
 
 ## Other Tools
-Favicon generator, mockup generator, Adobe XD.
+- **[Favicon Generator](https://www.favicon-generator.org/)**  
+  Used for generating favicon versions.
+
+- **[Mockup Generator](https://techsini.com/multi-mockup/index.php)**  
+  Used for generating mockup image.
 
 ---
 
@@ -371,7 +379,7 @@ Explain the GitHub Pages deployment process and provide instructions on how to f
 ## Credits and Contact
 
 ### Content & Media
-Unsplash, CloudConvert, Font Awesome, Google Fonts, W3Schools, ChatGPT, Conventional Commits, Hot Mess logo font.
+Unsplash, CloudConvert, Font Awesome, Google Fonts, W3Schools, ChatGPT, Conventional Commits, Hot Mess logo font. 
 
 ### Other
 Code Institute, love runners project. Rory.
