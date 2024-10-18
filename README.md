@@ -1,4 +1,4 @@
-<p style="text-align: center;"><img src="assets/images/paw_play_logo_white.webp" width="600px"></p>
+![Logotype](assets/images/paw_play_logo_white.webp)
 
 [Sunne Dogcare](https://fridalannerstrom.github.io/dogsitter/) is a website designed for a local dog-sitting service based in Sunne, Sweden. The purpose of this project is to provide a professional and user-friendly platform for the business, allowing potential clients to easily explore the available services, get to know the dog sitter, and contact the owner for bookings or inquiries.
 
@@ -89,20 +89,26 @@ Wireframes were created using Adobe XD, with a strong focus on the user goals, b
 
 <details>
   <summary>📱 Click to view Mobile Wireframes</summary>
-  <img src="assets/images/wireframes-mobile-1.webp" width="100%">
-  <img src="assets/images/wireframes-mobile-2.webp" width="100%">
+
+  ![Mobile Wireframe 1](assets/images/wireframes-mobile-1.webp)
+  ![Mobile Wireframe 2](assets/images/wireframes-mobile-2.webp)
+
 </details>
 
 <details>
   <summary>💻 Click to view Tablet Wireframes</summary>
-  <img src="assets/images/wireframes-tablet-1.webp" width="100%">
-  <img src="assets/images/wireframes-tablet-2.webp" width="100%">
+
+  ![Tablet Wireframe 1](assets/images/wireframes-tablet-1.webp)
+  ![Tablet Wireframe 2](assets/images/wireframes-tablet-2.webp)
+  
 </details>
 
 <details>
   <summary>🖥️ Click to view Desktop Wireframes</summary>
-  <img src="assets/images/wireframes-desktop-1.webp" width="100%">
-  <img src="assets/images/wireframes-desktop-2.webp" width="100%">
+
+  ![Desktop Wireframe 1](assets/images/wireframes-desktop-1.webp)
+  ![Desktop Wireframe 2](assets/images/wireframes-desktop-2.webp)
+
 </details>
 
 ## Graphic Design & Color Scheme
