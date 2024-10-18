@@ -166,7 +166,8 @@ form label {
 .form-content {
     margin-top: 20px;
     border-radius: 10px;
-    background: url('../images/contact-background.webp') no-repeat center center/cover;
+    background: linear-gradient(rgba(19, 35, 20, 0.9), rgba(19, 35, 20, 0.6)),
+    url('../images/dog11.webp') no-repeat center center/cover; 
     color: white;
     padding: 50px;
     text-align: center;
@@ -342,7 +343,8 @@ main {
 /* About me */
 
 #hero-section-about {
-    background: url('../images/background-mobile-about.webp') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(20, 85, 4, 0)),
+    url('../images/background-mobile-about.webp') no-repeat center center/cover;
 }
 
 .about-me {
@@ -425,7 +427,8 @@ main {
 /* Gallery section */
 
 #hero-section-gallery {
-    background: url('../images/background-mobile-gallery.webp') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
+    url('../images/background-mobile-gallery.webp') no-repeat center center/cover;
 }
 
 #gallery img {
@@ -662,7 +665,8 @@ main {
     /* About me */
 
     #hero-section-about {
-        background: url('../images/background-desktop-about.webp') no-repeat top center/cover;
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
+        url('../images/background-desktop-about.webp') no-repeat top center/cover;
     }
 
     .about-container {
@@ -697,7 +701,8 @@ main {
     /* Gallery */
 
     #hero-section-gallery {
-        background: url('../images/background-desktop-gallery.webp') no-repeat center center/cover;
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
+        url('../images/background-desktop-gallery.webp') no-repeat center center/cover;
     }
 
     /* contact */
