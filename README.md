@@ -454,10 +454,42 @@ None that I know of - feel free to tell me if you find any!
 ## Deployment
 
 ### Local Deployment
-Instructions for setting up and deploying the project locally.
+To run this project locally, follow these basic steps:
+
+Requirements:
+- An IDE of your choice 
+- Git
+- A web browser
+
+**Local Instructions:**
+
+1. Clone the repository by running the following command in your terminal
+
+```bash
+git clone https://github.com/YOUR-USERNAME/your-repository.git
+```
+
+2. Navigate to the folder where the repository was cloned.
+
+```bash
+cd your-repository
+```
+
+3. Open the folder in your IDE.
+
+4. Launch the project by opening the index.html file in your preferred web browser.
 
 ### GitHub Deployment
-Explain the GitHub Pages deployment process and provide instructions on how to find the live site.
+
+The project is deployed on GitHub Pages. To deploy your own version, follow these steps:
+
+1. Log in to your GitHub account. navigate to https://github.com/fridalannerstrom/dogsitter
+2. You can set up your own repository and copy or clone it, or you fork the repository.
+3. GitHub pages will update from the master branch by default.
+4. Go to the Settings page of the repository.
+5. Scroll down to the Github Pages section.
+6. Select the Master Branch as the source and Confirm the selection.
+7. Wait a minute or two and it should be live for viewing. 
 
 ---
 
