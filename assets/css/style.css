@@ -456,8 +456,8 @@ main {
 
 #form-date {
     display: block;
+    /* Two columns of equal size */
     grid-template-columns: 1fr 1fr;
-    /* Två kolumner av lika storlek */
     gap: 20px;
     width: 100%;
     flex-direction: column;
@@ -705,7 +705,7 @@ main {
         url('../images/background-desktop-gallery.webp') no-repeat center center/cover;
     }
 
-    /* contact */
+    /* Contact */
 
     #hero-section-contact {
         background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(20, 85, 4, 0)),
