@@ -36,9 +36,9 @@ The website is designed with a modern, clean aesthetic to present Sunne Dogcare 
    - [Local Deployment](#local-deployment) 
    - [GitHub Deployment](#github-deployment)
    
-6. [Credits and Contact](#credits-and-acknowledgments)
-   - [Content & Media](#content-sources)
-   - [Other](#contact-information)
+6. [Credits](#credits)
+   - [Content & Media](#content-media)
+   - [Other](#other)
 
 
 ---
@@ -493,10 +493,26 @@ The project is deployed on GitHub Pages. To deploy your own version, follow thes
 
 ---
 
-## Credits and Contact
+## Credits
 
 ### Content & Media
-Unsplash, CloudConvert, Font Awesome, Google Fonts, W3Schools, ChatGPT, Conventional Commits, Hot Mess logo font. 
+
+| Source      | Notes   | 
+| ----------- | ---------- | 
+| [Unsplash](https://unsplash.com/)  | Photos used throughout the website (except for my own) | 
+| [ChatGPT](https://chatgpt.com/)  | Assisted with content creation and providing English wording for the README documentation | 
+| [Hot Mess by Sam Parrett](https://www.behance.net/gallery/79231099/Hot-Mess-SVG-Font)  | A fantastic font used for branding my Dog Care busines | 
 
 ### Other
-Code Institute, love runners project. Rory.
+
+| Source      | Notes   | 
+| ----------- | ---------- | 
+| [CloudConvert](https://cloudconvert.com/) | Converted PNG images to WebP format for better performance | 
+| [W3Schools ](https://www.w3schools.com/) | Helped refresh my memory on CSS attributes and syntax when needed | 
+| [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)  | Introduced me to a structured and meaningful way of writing commit messages, which I adopted halfway through the project | 
+
+
+### Acknowledgements
+
+- A huge thank you to my mentor, [Rory Patrick](https://github.com/Ri-Dearg), for providing invaluable guidance throughout this project.
+- Special thanks to [Code Institute](https://codeinstitute.net/), particularly the "Love Runners" project, for helping me get started with GitHub and guiding me through the project process. 
