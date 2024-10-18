@@ -452,6 +452,18 @@ A more detailed description of all bugs encountered during the project can be fo
 | Responsive Issue | ![CTA bugg on small screens](assets/images/documentation/button-bugg.png) | The CTA button was getting cut off on smaller screens, resulting in awkward line breaks and poor user experience. | Reduced the button size and adjusted padding within the CTA box for smaller screens to prevent the cutoff and ensure proper alignment. | 
 | Responsive Issue | ![Overflow issue on small screens](assets/images/documentation/footer-bugg.png) | On screens smaller than 350px, the body content shrank, but an overflow issue caused the content to not align properly on the right side. | Identified the footer logo as the cause. Applied a max-width and width:100% to correct this. | 
 
+### Goal testing
+Let’s test if the website meets the goals we set at the beginning, both the user’s goals and the business objectives.
+
+| Goal      | Result | Notes |
+| --------- | ------ |------ |
+| **User Goals:** Read about services | ✅ Pass | Clear information about services, process and cost |
+| **User Goals:** Book a service | ✅ Pass | Simple booking form thats easy to find due to CTAs on almost all pages |
+| **User Goals:** Read about Sunne Dogcare | ✅ Pass | Clear navigation to about page with information about dogsitter etc. |
+| **Business Goals:** Provide clear information about services | ✅ Pass | Narrowed down to three clear and easy-to-understad services |
+| **Business Goals:** Enable easy booking | ✅ Pass | Booking form with easy navigation and easy to fill out form |
+| **Attract new customers** Attract new customers | ⚠️ Almost Pass | The website does attract new customers, but the content could be more directly aimed at new customers than it currently is, with special offer or something like that |
+| **Business Goals:** Build trust | ✅ Pass | Lots of happy photos and personal information that builds trust |
 
 ### Other testing
 
