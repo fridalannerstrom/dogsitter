@@ -297,6 +297,16 @@ The notification page does not include a hero section; instead, you are presente
 | **Booking form** | Booking form for easily scheduling dog care, with required fields for name, email, service, drop-off, and pick-up. The message field is optional. Upon submission, users are redirected to a thank you page confirming their booking. | ![Booking Mobile](assets/images/documentation/booking-mobile.png) | ![Hero Desktop](assets/images/documentation/booking-desktop.png) | 
 
 ## Feature Changes
+
+Throughout the development process, changes were made to the design, content, sections, and features to enhance usability and clarity. These adjustments were necessary to ensure a better user experience. The changes are listed below.
+
+| Action | Section | Reason | Before | After |
+| ------ | ------- | ------ | ------ | ----- |
+| **🗑️Removal** | Contact form | Having two contact forms was unnecessary and caused confusion. The contact form was removed and replaced with a CTA box. Now, only one form remains: the booking form. | ![Old Contact Form](assets/images/documentation/contact-form.png) | ![CTA-box](assets/images/documentation/cta-section.png) | 
+| **‍🎨Design Change** | Service Page | The service section felt cluttered with too many boxes. The large yellow box was removed, and instead, individual boxes were used for the list, resulting in a cleaner and lighter design. On desktop, a thin grey border was added to better separate the different sections. | ![Old Services](assets/images/documentation/services-old.png) | ![New Services](assets/images/documentation/services-page-desktop.png) | 
+| **🗑️Removal** | Service Button | Having a separate CTA button for booking each service was unnecessary, as the same booking form applies to all services. | ![Old Services Button](assets/images/documentation/services-old.png) | ![New Services Button](assets/images/documentation/services-page-desktop.png) | 
+
+
 Changes to the design; service page design with lighter box on desktop, list in about me page
 
 ## Future Features
