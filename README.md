@@ -266,7 +266,7 @@ The notification page does not include a hero section; instead, you are presente
 
 | Section | Description | Mobile | Desktop |
 | ------- | ----------- | ------ | ------- |
-| **Hero Section** | Heading, paragraph and button to homepage. Image to make the design more visually engaging | ![Thank You Mobile](assets/images/documentation/thankyou-mobile.png) | ![Thank You Desktop](assets/images/documentation/thankyou-desktop.png) | 
+| **Main Section** | Heading, paragraph and button to homepage. Image to make the design more visually engaging | ![Thank You Mobile](assets/images/documentation/thankyou-mobile.png) | ![Thank You Desktop](assets/images/documentation/thankyou-desktop.png) | 
 
 
 ## Key Features
