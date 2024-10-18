@@ -304,6 +304,8 @@ The notification page does not include a hero section; instead, you are presente
 
 Throughout the development process, changes were made to the design, content, sections, and features to enhance usability and clarity. These adjustments were necessary to ensure a better user experience. The changes are listed below.
 
+⚠️ Some images on the live site differ from those in the mockup. These changes were made based on personal preference during the development process, as I felt the new images were a better fit. The specific image changes are not listed below.
+
 | Action | Section | Reason | Before | After |
 | ------ | ------- | ------ | ------ | ----- |
 | **🗑️Removal** | Contact form | Having two contact forms was unnecessary and caused confusion. The contact form was removed and replaced with a CTA box. Now, only one form remains: the booking form. | ![Old Contact Form](assets/images/documentation/contact-form.png) | ![CTA-box](assets/images/documentation/cta-section.png) | 
@@ -312,6 +314,8 @@ Throughout the development process, changes were made to the design, content, se
 | **✅Addition** | List | The section about the dog sitter felt dull with only paragraph text. A list was added to clearly highlight the sitter's experience, making the information more engaging and easier to absorb. | ![Old About](assets/images/documentation/old-about-dogsitter.png) | ![New About](assets/images/documentation/about-dogsitter-desktop.png) | 
 | **‍🎨Design Change** | Gallery | The original plan was to display two columns for gallery on the homepage for mobile devices. However, the images appeared too small, so I adjusted the layout to a single-column. | ![Old Gallery](assets/images/documentation/gallery-mockup.png) | ![New Gallery](assets/images/documentation/gallery-live.png) | 
 | **✅Addition** | Contact | Realized that adding contact information to the contact page was essential, of course. | ![Old Booking](assets/images/documentation/booking-without-contact.png) | ![New Booking](assets/images/documentation/booking-with-contact.png) | 
+| **‍🎨Design Change** | Navigation | Navigation dropdown changed fron left aligned text to right aligned text for easier thumb use on mobile | ![Old Navigation](assets/images/documentation/navigation-mockup.png) | ![New Navigation](assets/images/documentation/navigation-dropdown.png) | 
+| **✅Addition** | Gallery | Added a link to see more images below the gallery on homepage | ![Old Gallery](assets/images/documentation/gallery-mockup.png) | ![New Gallery](assets/images/documentation/gallery-live.png) | 
 
 ## Future Features
 Here are some ideas for expanding the website in future development phases. 
