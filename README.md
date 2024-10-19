@@ -7,7 +7,7 @@
 
 The goal of the site is to provide potential clients with an easy way to explore the services I offer, get to know me and my dogs, and contact me directly for bookings or questions. I wanted the website to reflect the personal touch I bring to my business, so I chose photos and a warm, inviting design to make dog owners feel comfortable and confident when they leave their pets in my care.
 
-Sunne Dogcare is presented with a modern yet friendly aesthetic, focusing on trust and reliability, while also making sure all necessary information is easily accessible. The site is built with best practices in mind, ensuring smooth navigation, readability, and accessibility across all devices—so that no matter where or how clients browse, they’ll have a great experience.
+Sunne Dogcare is presented with a modern yet friendly aesthetic, focusing on trust and reliability, while also making sure all necessary information is easily accessible and understood. 
 
 # Table of content
 
@@ -21,7 +21,7 @@ Sunne Dogcare is presented with a modern yet friendly aesthetic, focusing on tru
 2. [Features](#features)
    - [Page Elements](#page-elements)
    - [Key Features](#key-features)
-   - [Future Changes](#feature-changes)
+   - [Feature Changes](#feature-changes)
    - [Future Features](#future-features)
    
 3. [Tools and Technologies](#tools-and-technologies)
@@ -31,8 +31,15 @@ Sunne Dogcare is presented with a modern yet friendly aesthetic, focusing on tru
    - [Other Tools](#other-tools)
    
 4. [Testing](#testing)
-   - [Test Methods](#test-methods) 
+   - [Code validation](#code-validation) 
+   - [Browser Compatibility](#browser-compatibility) 
+   - [Responsiveness](#responsiveness) 
+   - [Pagespeed Insights](#pagespeed-insights) 
+   - [User Story Testing](#user-story-testing) 
    - [Bugs](#bugs) 
+   - [Goal Testing](#goal-testing) 
+   - [Other Testing](#other-testing) 
+   - [Unfixed Bugs](#unfixed-bugs) 
    
 5. [Deployment](#deployment)
    - [Local Deployment](#local-deployment) 
@@ -41,6 +48,7 @@ Sunne Dogcare is presented with a modern yet friendly aesthetic, focusing on tru
 6. [Credits](#credits)
    - [Content & Media](#content-media)
    - [Other](#other)
+   - [Acknowledgements](#acknowledgements)
 
 
 ---
@@ -197,7 +205,7 @@ The final mockups for the UI were created using [Adobe XD](https://adobexdplatfo
 </details>
 
 <details>
-  <summary>🖥️ Click to view Desktop Wireframes</summary>
+  <summary>🖥️ Click to view Desktop UI</summary>
 
  ![UI Desktop 1](assets/images/documentation/ui-desktop-1.png)
  ![UI Desktop 2](assets/images/documentation/ui-desktop-2.png)
@@ -522,7 +530,7 @@ The project is deployed on GitHub Pages. To deploy your own version, follow thes
 | ----------- | ---------- | 
 | [Unsplash](https://unsplash.com/)  | Photos used throughout the website (except for my own) | 
 | [ChatGPT](https://chatgpt.com/)  | Assisted with content creation and providing English wording for the README documentation | 
-| [Hot Mess by Sam Parrett](https://www.behance.net/gallery/79231099/Hot-Mess-SVG-Font)  | A fantastic font used for branding my Dog Care busines | 
+| [Hot Mess by Sam Parrett](https://www.behance.net/gallery/79231099/Hot-Mess-SVG-Font)  | A fantastic font used for branding my Dog Care business | 
 | [Mockup Generator](https://techsini.com/multi-mockup/index.php)  | Used for generating mockup image in this README | 
 
 ### Other
