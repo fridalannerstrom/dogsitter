@@ -372,8 +372,6 @@ This project is built using [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS]
 
 ## Testing
 
-All bugs discovered during the course of this project are reported in the Issues tab on GitHub. I wanted to get a head start on using this feature, so I decided to test it out right away! 🤓
-
 ### Code validation
 
 I have validated my HTML code using **[HTML W3C Validator](https://validator.w3.org/)** and CSS code using **[CSS Jigsaw Validator](https://validator.w3.org/)**
@@ -439,9 +437,6 @@ There are some performance issues across all pages, some of them are due to the 
 | **As a dog owner,** I want to feel confident that my dog is in safe hands, so I can relax knowing they are well cared for while I'm away. | *Homepage > About* | ![About Page](assets/images/documentation/us-about.png) | 
 
 ### Bugs
-A more detailed description of all bugs encountered during the project can be found in the **[Issues Tab](https://github.com/fridalannerstrom/dogsitter/issues)** on GitHub. I wanted to familiarize myself with this feature early on, so I logged bugs there. In the Issues tab, you can find a complete breakdown of each bug, including how I identified and resolved them.
-
-**Below is a quick summary of the bugs I encountered and their solutions**
 
 | Bug       | Screenshot | Description | Solution  |
 | --------- | --------- | ---------- | ---------- | 
